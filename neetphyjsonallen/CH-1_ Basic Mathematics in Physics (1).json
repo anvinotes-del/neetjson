@@ -687,8 +687,8 @@
       "id": 2005,
       "post_author": 1,
       "post_date": "2026-05-23 10:00:00",
-      "post_content": "<div>A normal human eye can see an object making an angle of $1.8^{\\circ}$ at the eye. What is the min. height of object which can be seen by an eye placed at a distance of 1 m from the object?<br>[Figure: A triangle showing angle $1.8^{\\circ}$ at the eye, base distance 1m, and height h]</div>",
-      "post_title": "A normal human eye can see an object making an angle...",
+      "post_content": "<div>A normal human eye can see an object making an angle of $1.8^{\\circ}$ at the eye. What is the min. height of object which can be seen by an eye placed at a distance of 1 m from the object?<br>[Figure: A triangle showing angle $1.8^{\\circ}$ at the eye, base distance 1m, and height h]</div><img class=\"aimcq-question-image\" src=\"https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-q-1779940049851.webp\" width=\"245\" height=\"73\" style=\"width:245px;height:73px;max-width:100%;margin:10px 0;border-radius:4px;\">",
+      "post_title": "A normal human eye can see an object making an angle of $1.8^{\\circ}$ at the eye. What is the min. height of object whic",
       "post_status": "publish",
       "post_type": "question",
       "meta_input": {
@@ -713,7 +713,7 @@
         ],
         "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> The relationship between arc length, radius, and angle is given by $\\text{Arc length} = \\text{Radius} \\times \\text{Angle in radians}$ ($l = r\\theta$). For small angles, the linear height of an object is mathematically equivalent to the arc length. To convert an angle from degrees to radians, multiply it by $\\frac{\\pi}{180}$.</div><p><strong>Correct Answer: \\pi cm</strong></p><p><strong>Step I:</strong> Identify the relationship between arc length (height $h$), radius (distance $r$), and angle $\\theta$ (in radians): $h = r \\times \\theta$.<br><strong>Step II:</strong> Note the distance $r = 1m = 100cm$.<br><strong>Step III:</strong> Convert the angle $\\theta = 1.8^{\\circ}$ from degrees to radians: $\\theta = 1.8 \\times \\frac{\\pi}{180} = \\frac{\\pi}{100}$ radians.<br><strong>Step IV:</strong> Calculate the height: $h = 100 \\times \\frac{\\pi}{100} = \\pi~cm$.</p>",
         "_aimcq_title_hi": "एक सामान्य मानव आँख एक वस्तु को आँख पर $1.8^{\\circ}$...",
-        "_aimcq_question_content_hi": "<div>एक सामान्य मानव आँख एक वस्तु को आँख पर $1.8^{\\circ}$ का कोण बनाते हुए देख सकती है। उस वस्तु की न्यूनतम ऊंचाई क्या है जिसे वस्तु से 1 मीटर की दूरी पर रखी आंख द्वारा देखा जा सकता है?<br>[चित्र: आँख पर $1.8^{\\circ}$ का कोण, 1m की दूरी और h ऊंचाई दर्शाता एक त्रिभुज]</div>",
+        "_aimcq_question_content_hi": "<div>एक सामान्य मानव आँख एक वस्तु को आँख पर $1.8^{\\circ}$ का कोण बनाते हुए देख सकती है। उस वस्तु की न्यूनतम ऊंचाई क्या है जिसे वस्तु से 1 मीटर की दूरी पर रखी आंख द्वारा देखा जा सकता है?<br>[चित्र: आँख पर $1.8^{\\circ}$ का कोण, 1m की दूरी और h ऊंचाई दर्शाता एक त्रिभुज]</div><img class=\"aimcq-question-image\" src=\"https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-q-1779940049851.webp\" width=\"245\" height=\"73\" style=\"width:245px;height:73px;max-width:100%;margin:10px 0;border-radius:4px;\">",
         "_aimcq_options_hi": [
           {
             "text": "$\\frac{\\pi}{2}$ cm",
@@ -735,7 +735,9 @@
         "_aimcq_correct_answers": [
           1
         ],
-        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> चाप की लंबाई (Arc length), त्रिज्या (radius) और कोण के बीच का संबंध $\\text{चाप की लंबाई} = \\text{त्रिज्या} \\times \\text{रेडियन में कोण}$ ($l = r\\theta$) द्वारा दिया जाता है। छोटे कोणों के लिए, वस्तु की रैखिक ऊंचाई गणितीय रूप से चाप की लंबाई के बराबर होती है। डिग्री को रेडियन में बदलने के लिए $\\frac{\\pi}{180}$ से गुणा करें।</div><p><strong>सही उत्तर: \\pi cm</strong></p><p><strong>Step I:</strong> चाप की लंबाई (ऊंचाई $h$), त्रिज्या (दूरी $r$) और कोण $\\theta$ (रेडियन में) के बीच संबंध पहचानें: $h = r \\times \\theta$।<br><strong>Step II:</strong> दी गई दूरी लिखें: $r = 1m = 100cm$।<br><strong>Step III:</strong> कोण $\\theta = 1.8^{\\circ}$ को डिग्री से रेडियन में बदलें: $\\theta = 1.8 \\times \\frac{\\pi}{180} = \\frac{\\pi}{100}$ रेडियन।<br><strong>Step IV:</strong> ऊंचाई की गणना करें: $h = 100 \\times \\frac{\\pi}{100} = \\pi~cm$।</p>"
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> चाप की लंबाई (Arc length), त्रिज्या (radius) और कोण के बीच का संबंध $\\text{चाप की लंबाई} = \\text{त्रिज्या} \\times \\text{रेडियन में कोण}$ ($l = r\\theta$) द्वारा दिया जाता है। छोटे कोणों के लिए, वस्तु की रैखिक ऊंचाई गणितीय रूप से चाप की लंबाई के बराबर होती है। डिग्री को रेडियन में बदलने के लिए $\\frac{\\pi}{180}$ से गुणा करें।</div><p><strong>सही उत्तर: \\pi cm</strong></p><p><strong>Step I:</strong> चाप की लंबाई (ऊंचाई $h$), त्रिज्या (दूरी $r$) और कोण $\\theta$ (रेडियन में) के बीच संबंध पहचानें: $h = r \\times \\theta$।<br><strong>Step II:</strong> दी गई दूरी लिखें: $r = 1m = 100cm$।<br><strong>Step III:</strong> कोण $\\theta = 1.8^{\\circ}$ को डिग्री से रेडियन में बदलें: $\\theta = 1.8 \\times \\frac{\\pi}{180} = \\frac{\\pi}{100}$ रेडियन।<br><strong>Step IV:</strong> ऊंचाई की गणना करें: $h = 100 \\times \\frac{\\pi}{100} = \\pi~cm$।</p>",
+        "_aimcq_image_width": "245",
+        "_aimcq_image_height": "73"
       },
       "taxonomies": {
         "topic": [
