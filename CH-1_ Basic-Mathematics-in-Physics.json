@@ -1302,26 +1302,26 @@
           {
             "text": "",
             "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-a-1779941426490.webp",
-            "image_width": "157",
-            "image_height": "150"
+            "image_width": "147",
+            "image_height": "140"
           },
           {
             "text": "",
             "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-b-1779941427771.webp",
-            "image_width": "160",
-            "image_height": "150"
+            "image_width": "149",
+            "image_height": "140"
           },
           {
             "text": "",
             "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-c-1779941429221.webp",
-            "image_width": "160",
-            "image_height": "150"
+            "image_width": "149",
+            "image_height": "140"
           },
           {
             "text": "",
             "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-d-1779941430688.webp",
-            "image_width": "160",
-            "image_height": "150"
+            "image_width": "149",
+            "image_height": "140"
           }
         ],
         "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> The first derivative of a mathematical function precisely represents the geometric slope of its curve at any given coordinate point ($m = \\frac{dy}{dx}$). To analytically find how the slope itself varies with the x-coordinate, calculate the derivative of the curve's equation. The resulting expression dictates the exact shape of the slope variation graph (e.g., $m = x^2$ represents a standard parabola opening upwards).</div><p><strong>Correct Answer: [Figure 3]</strong></p><p><strong>Step I:</strong> Identify the given equation of the curve: $y = \\frac{1}{3}x^3$.<br><strong>Step II:</strong> Determine the slope of this curve by taking its derivative with respect to $x$: $\\text{Slope } (m) = \\frac{dy}{dx} = \\frac{d}{dx} \\left(\\frac{1}{3}x^3\\right) = x^2$.<br><strong>Step III:</strong> Analyze the resulting equation $m = x^2$. This represents a parabola that opens upwards, is symmetric about the y-axis (or dy/dx axis), and has its vertex at the origin $(0,0)$.<br><strong>Step IV:</strong> Select the figure that corresponds to this upward-opening parabola.</p>",
@@ -1331,26 +1331,26 @@
           {
             "text": "",
             "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-a-1779941426490.webp",
-            "image_width": "157",
-            "image_height": "150"
+            "image_width": "147",
+            "image_height": "140"
           },
           {
             "text": "",
             "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-b-1779941427771.webp",
-            "image_width": "160",
-            "image_height": "150"
+            "image_width": "149",
+            "image_height": "140"
           },
           {
             "text": "",
             "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-c-1779941429221.webp",
-            "image_width": "160",
-            "image_height": "150"
+            "image_width": "149",
+            "image_height": "140"
           },
           {
             "text": "",
             "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-d-1779941430688.webp",
-            "image_width": "160",
-            "image_height": "150"
+            "image_width": "149",
+            "image_height": "140"
           }
         ],
         "_aimcq_correct_answers": [
