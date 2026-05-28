@@ -750,8 +750,8 @@
       "id": 2006,
       "post_author": 1,
       "post_date": "2026-05-23 10:00:00",
-      "post_content": "<div>In the following figure the curve represents the function<br>[Figure: A curve starting from the origin (0,0) and exponentially increasing to asymptotically approach a horizontal line at y = a as x increases]</div>",
-      "post_title": "In the following figure the curve represents the function...",
+      "post_content": "<div>In the following figure the curve represents the function<br>[Figure: A curve starting from the origin (0,0) and exponentially increasing to asymptotically approach a horizontal line at y = a as x increases]</div><img class=\"aimcq-question-image\" src=\"https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-q-1779940111089.webp\" width=\"335\" height=\"161\" style=\"width:335px;height:161px;max-width:100%;margin:10px 0;border-radius:4px;\">",
+      "post_title": "In the following figure the curve represents the function [Figure: A curve starting from the origin (0,0) and exponentia",
       "post_status": "publish",
       "post_type": "question",
       "meta_input": {
@@ -776,7 +776,7 @@
         ],
         "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Behavior of exponential functions. The function $e^{-x}$ approaches 1 as $x \\to 0$ (since $e^0 = 1$), and it approaches 0 as $x \\to \\infty$. By substituting visual boundary values (like $x=0$ and $x=\\infty$) into the given equations, we can reliably match the mathematical equation to the limits of the graph.</div><p><strong>Correct Answer: y=a(1-e^{-x})</strong></p><p><strong>Step I:</strong> Analyze the graph at $x = 0$. The graph passes through the origin, so $y = 0$.<br><strong>Step II:</strong> Check the given options for $x=0$: (1) $a-e^{0} = a-1$; (2) $a(1+e^{0}) = 2a$; (3) $a(1-e^{0}) = 0$ (Matches); (4) $e^{0} = 1$.<br><strong>Step III:</strong> Analyze the graph at $x \\to \\infty$. The curve approaches the horizontal asymptote $y = a$.<br><strong>Step IV:</strong> Verify option (3) for $x \\to \\infty$: $e^{-x} \\to 0$, so $y \\to a(1-0) = a$. Thus, option (3) perfectly represents the curve.</p>",
         "_aimcq_title_hi": "निम्नलिखित आकृति में वक्र किस फलन का प्रतिनिधित्व करता है...",
-        "_aimcq_question_content_hi": "<div>निम्नलिखित आकृति में वक्र फलन का प्रतिनिधित्व करता है<br>[चित्र: मूल बिंदु (0,0) से शुरू होकर घातांकीय रूप से बढ़ने वाला एक वक्र जो x के बढ़ने पर क्षैतिज रेखा y = a तक पहुंचता है]</div>",
+        "_aimcq_question_content_hi": "<div>निम्नलिखित आकृति में वक्र फलन का प्रतिनिधित्व करता है<br>[चित्र: मूल बिंदु (0,0) से शुरू होकर घातांकीय रूप से बढ़ने वाला एक वक्र जो x के बढ़ने पर क्षैतिज रेखा y = a तक पहुंचता है]</div><img class=\"aimcq-question-image\" src=\"https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-q-1779940111089.webp\" width=\"335\" height=\"161\" style=\"width:335px;height:161px;max-width:100%;margin:10px 0;border-radius:4px;\">",
         "_aimcq_options_hi": [
           {
             "text": "$y=a-e^{-x}$",
@@ -798,7 +798,9 @@
         "_aimcq_correct_answers": [
           2
         ],
-        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> घातांकीय फलनों (Exponential functions) का व्यवहार। फलन $e^{-x}$, 1 के करीब पहुंचता है जब $x \\to 0$ ($e^0 = 1$), और यह 0 के करीब पहुंचता है जब $x \\to \\infty$। दिए गए समीकरणों में दृश्य सीमा मानों (जैसे $x=0$ और $x=\\infty$) को प्रतिस्थापित करके, हम ग्राफ की सीमाओं से सही समीकरण का मिलान कर सकते हैं।</div><p><strong>सही उत्तर: y=a(1-e^{-x})</strong></p><p><strong>Step I:</strong> $x = 0$ पर ग्राफ़ का विश्लेषण करें। ग्राफ़ मूल बिंदु से होकर गुजरता है, इसलिए $y = 0$।<br><strong>Step II:</strong> $x=0$ के लिए विकल्पों की जाँच करें: (1) $a-e^{0} = a-1$; (2) $a(1+e^{0}) = 2a$; (3) $a(1-e^{0}) = 0$ (मेल खाता है); (4) $e^{0} = 1$।<br><strong>Step III:</strong> $x \\to \\infty$ पर ग्राफ़ का विश्लेषण करें। वक्र क्षैतिज रेखा $y = a$ के करीब पहुँचता है।<br><strong>Step IV:</strong> $x \\to \\infty$ के लिए विकल्प (3) सत्यापित करें: $e^{-x} \\to 0$, इसलिए $y \\to a(1-0) = a$। इस प्रकार, विकल्प (3) वक्र का सटीक प्रतिनिधित्व करता है।</p>"
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> घातांकीय फलनों (Exponential functions) का व्यवहार। फलन $e^{-x}$, 1 के करीब पहुंचता है जब $x \\to 0$ ($e^0 = 1$), और यह 0 के करीब पहुंचता है जब $x \\to \\infty$। दिए गए समीकरणों में दृश्य सीमा मानों (जैसे $x=0$ और $x=\\infty$) को प्रतिस्थापित करके, हम ग्राफ की सीमाओं से सही समीकरण का मिलान कर सकते हैं।</div><p><strong>सही उत्तर: y=a(1-e^{-x})</strong></p><p><strong>Step I:</strong> $x = 0$ पर ग्राफ़ का विश्लेषण करें। ग्राफ़ मूल बिंदु से होकर गुजरता है, इसलिए $y = 0$।<br><strong>Step II:</strong> $x=0$ के लिए विकल्पों की जाँच करें: (1) $a-e^{0} = a-1$; (2) $a(1+e^{0}) = 2a$; (3) $a(1-e^{0}) = 0$ (मेल खाता है); (4) $e^{0} = 1$।<br><strong>Step III:</strong> $x \\to \\infty$ पर ग्राफ़ का विश्लेषण करें। वक्र क्षैतिज रेखा $y = a$ के करीब पहुँचता है।<br><strong>Step IV:</strong> $x \\to \\infty$ के लिए विकल्प (3) सत्यापित करें: $e^{-x} \\to 0$, इसलिए $y \\to a(1-0) = a$। इस प्रकार, विकल्प (3) वक्र का सटीक प्रतिनिधित्व करता है।</p>",
+        "_aimcq_image_width": "335",
+        "_aimcq_image_height": "161"
       },
       "taxonomies": {
         "topic": [
