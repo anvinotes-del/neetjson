@@ -821,20 +821,28 @@
         "_aimcq_seo_robots": "noindex,nofollow",
         "_aimcq_options": [
           {
-            "text": "[Figure 1]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-a-1779940366536.webp",
+            "image_width": "260",
+            "image_height": "133"
           },
           {
-            "text": "[Figure 2]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-b-1779940368189.webp",
+            "image_width": "260",
+            "image_height": "133"
           },
           {
-            "text": "[Figure 3]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-c-1779940369550.webp",
+            "image_width": "260",
+            "image_height": "133"
           },
           {
-            "text": "[Figure 4]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-d-1779940371149.webp",
+            "image_width": "260",
+            "image_height": "133"
           }
         ],
         "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> The general equation of a sinusoidal wave is $y = A \\sin(Bx)$. The coefficient '$A$' represents the Amplitude (maximum vertical peak height). The coefficient '$B$' determines the time period, governed by the formula $T = \\frac{2\\pi}{B}$. A numerically smaller time period implies the wave oscillates faster horizontally.</div><p><strong>Correct Answer: [Figure 3]</strong></p><p><strong>Step I:</strong> Analyze the first function $y_{1}=2~\\sin(\\pi x)$. It has an amplitude of 2 and a time period $T_1 = \\frac{2\\pi}{\\pi} = 2$.<br><strong>Step II:</strong> Analyze the second function $y_{2}=4~\\sin(2\\pi x)$. It has an amplitude of 4 and a time period $T_2 = \\frac{2\\pi}{2\\pi} = 1$.<br><strong>Step III:</strong> Compare the two curves. The dashed curve ($y_2$) must have twice the peak height (amplitude) of the solid curve ($y_1$).<br><strong>Step IV:</strong> Compare the periods. The dashed curve must complete two full cycles in the same horizontal space the solid curve completes one full cycle. Figure 3 correctly depicts this relationship.</p>",
@@ -842,26 +850,36 @@
         "_aimcq_question_content_hi": "<div>निम्नलिखित आकृतियों में, वक्रों का एक जोड़ा दिखाया गया है। उनमें से किसमें ठोस और धराशायी (dashed) वक्र क्रमशः फलन $y_{1}=2~\\sin(\\pi x)$ और $y_{2}=4~\\sin(2\\pi x)$ का प्रतिनिधित्व करते हैं?</div>",
         "_aimcq_options_hi": [
           {
-            "text": "[चित्र 1]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-a-1779940366536.webp",
+            "image_width": "260",
+            "image_height": "133"
           },
           {
-            "text": "[चित्र 2]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-b-1779940368189.webp",
+            "image_width": "260",
+            "image_height": "133"
           },
           {
-            "text": "[चित्र 3]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-c-1779940369550.webp",
+            "image_width": "260",
+            "image_height": "133"
           },
           {
-            "text": "[चित्र 4]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-d-1779940371149.webp",
+            "image_width": "260",
+            "image_height": "133"
           }
         ],
         "_aimcq_correct_answers": [
           2
         ],
-        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> एक साइन तरंग (sinusoidal wave) का सामान्य समीकरण $y = A \\sin(Bx)$ है। गुणांक '$A$' आयाम (अधिकतम ऊर्ध्वाधर शिखर ऊंचाई) को दर्शाता है। गुणांक '$B$' आवर्तकाल (time period) निर्धारित करता है, जिसका सूत्र $T = \\frac{2\\pi}{B}$ है। संख्यात्मक रूप से छोटे आवर्तकाल का मतलब है कि तरंग क्षैतिज रूप से तेजी से दोलन करती है।</div><p><strong>सही उत्तर: [चित्र 3]</strong></p><p><strong>Step I:</strong> पहले फलन $y_{1}=2~\\sin(\\pi x)$ का विश्लेषण करें। इसका आयाम (Amplitude) 2 है और आवर्तकाल (Time period) $T_1 = \\frac{2\\pi}{\\pi} = 2$ है।<br><strong>Step II:</strong> दूसरे फलन $y_{2}=4~\\sin(2\\pi x)$ का विश्लेषण करें। इसका आयाम 4 है और आवर्तकाल $T_2 = \\frac{2\\pi}{2\\pi} = 1$ है।<br><strong>Step III:</strong> दोनों वक्रों की तुलना करें। डैश वाले वक्र ($y_2$) की अधिकतम ऊंचाई (आयाम) ठोस वक्र ($y_1$) की तुलना में दोगुनी होनी चाहिए।<br><strong>Step IV:</strong> आवर्तकाल की तुलना करें। जितने क्षैतिज स्थान में ठोस वक्र अपना एक चक्र पूरा करता है, उतने में डैश वाले वक्र को अपने दो पूर्ण चक्र पूरे करने चाहिए। चित्र 3 इस संबंध को सही ढंग से दर्शाता है।</p>"
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> एक साइन तरंग (sinusoidal wave) का सामान्य समीकरण $y = A \\sin(Bx)$ है। गुणांक '$A$' आयाम (अधिकतम ऊर्ध्वाधर शिखर ऊंचाई) को दर्शाता है। गुणांक '$B$' आवर्तकाल (time period) निर्धारित करता है, जिसका सूत्र $T = \\frac{2\\pi}{B}$ है। संख्यात्मक रूप से छोटे आवर्तकाल का मतलब है कि तरंग क्षैतिज रूप से तेजी से दोलन करती है।</div><p><strong>सही उत्तर: [चित्र 3]</strong></p><p><strong>Step I:</strong> पहले फलन $y_{1}=2~\\sin(\\pi x)$ का विश्लेषण करें। इसका आयाम (Amplitude) 2 है और आवर्तकाल (Time period) $T_1 = \\frac{2\\pi}{\\pi} = 2$ है।<br><strong>Step II:</strong> दूसरे फलन $y_{2}=4~\\sin(2\\pi x)$ का विश्लेषण करें। इसका आयाम 4 है और आवर्तकाल $T_2 = \\frac{2\\pi}{2\\pi} = 1$ है।<br><strong>Step III:</strong> दोनों वक्रों की तुलना करें। डैश वाले वक्र ($y_2$) की अधिकतम ऊंचाई (आयाम) ठोस वक्र ($y_1$) की तुलना में दोगुनी होनी चाहिए।<br><strong>Step IV:</strong> आवर्तकाल की तुलना करें। जितने क्षैतिज स्थान में ठोस वक्र अपना एक चक्र पूरा करता है, उतने में डैश वाले वक्र को अपने दो पूर्ण चक्र पूरे करने चाहिए। चित्र 3 इस संबंध को सही ढंग से दर्शाता है।</p>",
+        "_aimcq_image_width": "141",
+        "_aimcq_image_height": "130"
       },
       "taxonomies": {
         "topic": [
