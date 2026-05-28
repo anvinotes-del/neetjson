@@ -900,16 +900,22 @@
         "_aimcq_seo_robots": "noindex,nofollow",
         "_aimcq_options": [
           {
-            "text": "[Figure 1: Wave oscillating between 0 and 2, starting at y=2 at x=0]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-a-1779940915094.webp",
+            "image_width": "203",
+            "image_height": "170"
           },
           {
-            "text": "[Figure 2]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-b-1779940916811.webp",
+            "image_width": "204",
+            "image_height": "170"
           },
           {
-            "text": "[Figure 3]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-c-1779940918432.webp",
+            "image_width": "239",
+            "image_height": "170"
           },
           {
             "text": "None of these",
@@ -921,16 +927,22 @@
         "_aimcq_question_content_hi": "<div>फलन $y=1+\\cos~x$ का ग्राफ होगा</div>",
         "_aimcq_options_hi": [
           {
-            "text": "[चित्र 1: 0 और 2 के बीच दोलन करने वाली तरंग, x=0 पर y=2 से शुरू]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-a-1779940915094.webp",
+            "image_width": "203",
+            "image_height": "170"
           },
           {
-            "text": "[चित्र 2]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-b-1779940916811.webp",
+            "image_width": "204",
+            "image_height": "170"
           },
           {
-            "text": "[चित्र 3]",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-c-1779940918432.webp",
+            "image_width": "239",
+            "image_height": "170"
           },
           {
             "text": "इनमें से कोई नहीं",
@@ -940,7 +952,9 @@
         "_aimcq_correct_answers": [
           0
         ],
-        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> ग्राफ रूपांतरण (Graph transformation)। मानक कोसाइन तरंग $y = \\cos x$ सुचारू रूप से अधिकतम $+1$ और न्यूनतम $-1$ के बीच दोलन करती है। फलन में एक धनात्मक स्थिरांक $c$ जोड़ने पर, जैसे $y = c + \\cos x$, पूरा ग्राफ ऊर्ध्वाधर अक्ष पर $c$ इकाई ऊपर खिसक जाता है।</div><p><strong>सही उत्तर: [चित्र 1]</strong></p><p><strong>Step I:</strong> फलन $y = 1 + \\cos x$ पर विचार करें। मानक $\\cos x$ फलन -1 और +1 के बीच दोलन करता है।<br><strong>Step II:</strong> नई सीमा निर्धारित करें। $y = 1 + \\cos x$, $1 + (-1) = 0$ और $1 + (+1) = 2$ के बीच दोलन करेगा।<br><strong>Step III:</strong> $x = 0$ पर आरंभिक बिंदु ज्ञात करें। $y = 1 + \\cos(0) = 1 + 1 = 2$।<br><strong>Step IV:</strong> $x = \\pi$ पर न्यूनतम बिंदु ज्ञात करें। $y = 1 + \\cos(\\pi) = 1 - 1 = 0$। ग्राफ़ को $x = 0$ पर अपने शीर्ष (y = 2) से शुरू होना चाहिए और कभी भी x-अक्ष से नीचे नहीं गिरना चाहिए। चित्र 1 इस विवरण से मेल खाता है।</p>"
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> ग्राफ रूपांतरण (Graph transformation)। मानक कोसाइन तरंग $y = \\cos x$ सुचारू रूप से अधिकतम $+1$ और न्यूनतम $-1$ के बीच दोलन करती है। फलन में एक धनात्मक स्थिरांक $c$ जोड़ने पर, जैसे $y = c + \\cos x$, पूरा ग्राफ ऊर्ध्वाधर अक्ष पर $c$ इकाई ऊपर खिसक जाता है।</div><p><strong>सही उत्तर: [चित्र 1]</strong></p><p><strong>Step I:</strong> फलन $y = 1 + \\cos x$ पर विचार करें। मानक $\\cos x$ फलन -1 और +1 के बीच दोलन करता है।<br><strong>Step II:</strong> नई सीमा निर्धारित करें। $y = 1 + \\cos x$, $1 + (-1) = 0$ और $1 + (+1) = 2$ के बीच दोलन करेगा।<br><strong>Step III:</strong> $x = 0$ पर आरंभिक बिंदु ज्ञात करें। $y = 1 + \\cos(0) = 1 + 1 = 2$।<br><strong>Step IV:</strong> $x = \\pi$ पर न्यूनतम बिंदु ज्ञात करें। $y = 1 + \\cos(\\pi) = 1 - 1 = 0$। ग्राफ़ को $x = 0$ पर अपने शीर्ष (y = 2) से शुरू होना चाहिए और कभी भी x-अक्ष से नीचे नहीं गिरना चाहिए। चित्र 1 इस विवरण से मेल खाता है।</p>",
+        "_aimcq_image_width": "141",
+        "_aimcq_image_height": "130"
       },
       "taxonomies": {
         "topic": [
