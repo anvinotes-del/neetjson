@@ -1036,20 +1036,28 @@
         "_aimcq_seo_robots": "noindex,nofollow",
         "_aimcq_options": [
           {
-            "text": "Slope at $x_{0}$ is positive in graph (i) and (ii)",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-a-1779941052877.webp",
+            "image_width": "158",
+            "image_height": "150"
           },
           {
-            "text": "Slope is constant in graph (iii)",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-b-1779941054576.webp",
+            "image_width": "158",
+            "image_height": "150"
           },
           {
-            "text": "Slope at $x_{0}$ is negative in graph (iv)",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-c-1779941055856.webp",
+            "image_width": "158",
+            "image_height": "150"
           },
           {
-            "text": "Slope at $x_{0}$ is negative in graph (ii)",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-d-1779941057073.webp",
+            "image_width": "158",
+            "image_height": "150"
           }
         ],
         "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> In calculus and geometry, the slope of a curve at any coordinate point is defined geometrically by the tangent line at that point ($m = \\frac{dy}{dx}$). If the curve is rising (an increasing function), the slope is positive. If the curve is falling (a decreasing function), the slope is negative. A strictly horizontal line has a zero slope.</div><p><strong>Correct Answer: Slope at x0 is negative in graph (ii)</strong></p><p><strong>Step I:</strong> Understand that the slope of a curve is determined by drawing a tangent at a point.<br><strong>Step II:</strong> Analyze graphs (i) and (ii). As $x$ increases, $y$ increases. The tangent has a positive angle with the x-axis, meaning the slope is positive.<br><strong>Step III:</strong> Analyze graph (iii). It is a horizontal line, so the slope is constant and equal to zero.<br><strong>Step IV:</strong> Analyze graph (iv). As $x$ increases, $y$ decreases, indicating a negative slope.<br><strong>Step V:</strong> Evaluate the given statements. The statement claiming the slope in graph (ii) is negative contradicts the visual evidence of an increasing function, making it false.</p>",
@@ -1057,26 +1065,36 @@
         "_aimcq_question_content_hi": "<div>नीचे दिखाए गए y बनाम x के ग्राफ़ के आधार पर निम्नलिखित में से कौन सा कथन गलत है?<br>[चित्र: (i) घटती हुई धनात्मक ढलान वाला वक्र, (ii) बढ़ती हुई धनात्मक ढलान वाला वक्र, (iii) क्षैतिज सीधी रेखा, (iv) घटती हुई ऋणात्मक ढलान वाला वक्र]</div>",
         "_aimcq_options_hi": [
           {
-            "text": "ग्राफ (i) और (ii) में $x_{0}$ पर ढलान धनात्मक है",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-a-1779941052877.webp",
+            "image_width": "158",
+            "image_height": "150"
           },
           {
-            "text": "ग्राफ (iii) में ढलान स्थिर है",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-b-1779941054576.webp",
+            "image_width": "158",
+            "image_height": "150"
           },
           {
-            "text": "ग्राफ (iv) में $x_{0}$ पर ढलान ऋणात्मक है",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-c-1779941055856.webp",
+            "image_width": "158",
+            "image_height": "150"
           },
           {
-            "text": "ग्राफ (ii) में $x_{0}$ पर ढलान ऋणात्मक है",
-            "image": ""
+            "text": "",
+            "image": "https://cdn.jsdelivr.net/gh/anvinotes-del/neetimg@main/neetphyimg/mcq-fig-d-1779941057073.webp",
+            "image_width": "158",
+            "image_height": "150"
           }
         ],
         "_aimcq_correct_answers": [
           3
         ],
-        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> कैलकुलस और ज्यामिति में, किसी भी निर्देशांक बिंदु पर वक्र का ढलान (slope) ज्यामितीय रूप से उस बिंदु पर स्पर्श रेखा ($m = \\frac{dy}{dx}$) द्वारा परिभाषित किया जाता है। यदि वक्र ऊपर उठ रहा है (बढ़ता हुआ फलन), तो ढलान धनात्मक है। यदि वक्र नीचे गिर रहा है (घटता हुआ फलन), तो ढलान ऋणात्मक है। क्षैतिज रेखा का ढलान शून्य होता है।</div><p><strong>सही उत्तर: ग्राफ (ii) में x0 पर ढलान ऋणात्मक है</strong></p><p><strong>Step I:</strong> समझें कि किसी वक्र का ढलान (slope) एक बिंदु पर स्पर्शरेखा खींचकर निर्धारित किया जाता है।<br><strong>Step II:</strong> ग्राफ़ (i) और (ii) का विश्लेषण करें। जैसे-जैसे $x$ बढ़ता है, $y$ बढ़ता है। स्पर्शरेखा का x-अक्ष के साथ धनात्मक कोण है, जिसका अर्थ है ढलान धनात्मक है।<br><strong>Step III:</strong> ग्राफ़ (iii) का विश्लेषण करें। यह एक क्षैतिज रेखा है, इसलिए ढलान स्थिर और शून्य के बराबर है।<br><strong>Step IV:</strong> ग्राफ़ (iv) का विश्लेषण करें। जैसे-जैसे $x$ बढ़ता है, $y$ घटता है, जो ऋणात्मक ढलान का संकेत देता है।<br><strong>Step V:</strong> दिए गए कथनों का मूल्यांकन करें। ग्राफ (ii) में ढलान को ऋणात्मक बताने वाला कथन बढ़ते हुए फलन के दृश्य साक्ष्य का खंडन करता है, इसलिए यह गलत है।</p>"
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> कैलकुलस और ज्यामिति में, किसी भी निर्देशांक बिंदु पर वक्र का ढलान (slope) ज्यामितीय रूप से उस बिंदु पर स्पर्श रेखा ($m = \\frac{dy}{dx}$) द्वारा परिभाषित किया जाता है। यदि वक्र ऊपर उठ रहा है (बढ़ता हुआ फलन), तो ढलान धनात्मक है। यदि वक्र नीचे गिर रहा है (घटता हुआ फलन), तो ढलान ऋणात्मक है। क्षैतिज रेखा का ढलान शून्य होता है।</div><p><strong>सही उत्तर: ग्राफ (ii) में x0 पर ढलान ऋणात्मक है</strong></p><p><strong>Step I:</strong> समझें कि किसी वक्र का ढलान (slope) एक बिंदु पर स्पर्शरेखा खींचकर निर्धारित किया जाता है।<br><strong>Step II:</strong> ग्राफ़ (i) और (ii) का विश्लेषण करें। जैसे-जैसे $x$ बढ़ता है, $y$ बढ़ता है। स्पर्शरेखा का x-अक्ष के साथ धनात्मक कोण है, जिसका अर्थ है ढलान धनात्मक है।<br><strong>Step III:</strong> ग्राफ़ (iii) का विश्लेषण करें। यह एक क्षैतिज रेखा है, इसलिए ढलान स्थिर और शून्य के बराबर है।<br><strong>Step IV:</strong> ग्राफ़ (iv) का विश्लेषण करें। जैसे-जैसे $x$ बढ़ता है, $y$ घटता है, जो ऋणात्मक ढलान का संकेत देता है।<br><strong>Step V:</strong> दिए गए कथनों का मूल्यांकन करें। ग्राफ (ii) में ढलान को ऋणात्मक बताने वाला कथन बढ़ते हुए फलन के दृश्य साक्ष्य का खंडन करता है, इसलिए यह गलत है।</p>",
+        "_aimcq_image_width": "141",
+        "_aimcq_image_height": "130"
       },
       "taxonomies": {
         "topic": [
