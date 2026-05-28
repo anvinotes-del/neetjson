@@ -1,0 +1,1661 @@
+{
+  "version": "1.8.0",
+  "export_type": "topic_bundle",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "name": "Physics",
+      "slug": "physics",
+      "parent": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": 2021,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>$xy=c^{2}$ then $\\frac{dy}{dx}$ equals:</div>",
+      "post_title": "$xy=c^{2}$ then $\\frac{dy}{dx}$ equals:",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$\\frac{x}{y}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{y}{x}$",
+            "image": ""
+          },
+          {
+            "text": "$-\\frac{x}{y}$",
+            "image": ""
+          },
+          {
+            "text": "$-\\frac{y}{x}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Implicit differentiation in calculus. When both variables x and y are multiplied, use the product rule $\\frac{d}{dx}(u \\cdot v) = u\\frac{dv}{dx} + v\\frac{du}{dx}$ and differentiate both sides of the equation with respect to x.</div><p><strong>Correct Answer: $-\\frac{y}{x}$</strong></p><p><strong>Step I:</strong> Write the given equation: $xy = c^2$.<br><strong>Step II:</strong> Differentiate both sides with respect to x. Apply the product rule on the left side: $x \\frac{dy}{dx} + y \\frac{d(x)}{dx} = \\frac{d(c^2)}{dx}$.<br><strong>Step III:</strong> Since $c^2$ is a constant, its derivative is 0. Also, $\\frac{dx}{dx} = 1$. So the equation becomes: $x \\frac{dy}{dx} + y(1) = 0$.<br><strong>Step IV:</strong> Rearrange the equation to solve for $\\frac{dy}{dx}$. Subtract $y$ from both sides to get $x \\frac{dy}{dx} = -y$.<br><strong>Step V:</strong> Divide by $x$ to isolate the derivative: $\\frac{dy}{dx} = -\\frac{y}{x}$.</p>",
+        "_aimcq_title_hi": "$xy=c^{2}$ है, तो $\\frac{dy}{dx}$ बराबर है:",
+        "_aimcq_question_content_hi": "<div>$xy=c^{2}$ है, तो $\\frac{dy}{dx}$ बराबर है:</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$\\frac{x}{y}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{y}{x}$",
+            "image": ""
+          },
+          {
+            "text": "$-\\frac{x}{y}$",
+            "image": ""
+          },
+          {
+            "text": "$-\\frac{y}{x}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> कैलकुलस में अस्पष्ट अवकलन (Implicit differentiation)। जब दोनों चर x और y गुणा में हों, तो गुणनफल नियम (product rule) $\\frac{d}{dx}(u \\cdot v) = u\\frac{dv}{dx} + v\\frac{du}{dx}$ का उपयोग करें और समीकरण के दोनों पक्षों का x के सापेक्ष अवकलन करें।</div><p><strong>सही उत्तर: $-\\frac{y}{x}$</strong></p><p><strong>Step I:</strong> दिया गया समीकरण लिखें: $xy = c^2$।<br><strong>Step II:</strong> दोनों पक्षों का x के सापेक्ष अवकलन करें। बाएँ पक्ष पर गुणनफल नियम लागू करें: $x \\frac{dy}{dx} + y \\frac{d(x)}{dx} = \\frac{d(c^2)}{dx}$।<br><strong>Step III:</strong> चूँकि $c^2$ एक स्थिरांक है, इसका अवकलज 0 होगा। साथ ही, $\\frac{dx}{dx} = 1$ है। इसलिए समीकरण बन जाता है: $x \\frac{dy}{dx} + y(1) = 0$।<br><strong>Step IV:</strong> $\\frac{dy}{dx}$ का मान निकालने के लिए समीकरण को पुनर्व्यवस्थित करें। दोनों पक्षों से $y$ घटाएं: $x \\frac{dy}{dx} = -y$।<br><strong>Step V:</strong> अवकलज को अलग करने के लिए $x$ से विभाजित करें: $\\frac{dy}{dx} = -\\frac{y}{x}$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2022,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>A metal rod extends on the x-axis from $x=0$ m to $x=4$ m. Its linear density $\\rho$ (mass/length) is not uniform and varies with the distance x from the origin according to equation $\\rho=(1.5+2x)kg/m$. What is the mass of rod :-</div>",
+      "post_title": "A metal rod extends on the x-axis from $x=0$ m to $x=4$ m...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "16 kg",
+            "image": ""
+          },
+          {
+            "text": "22 kg",
+            "image": ""
+          },
+          {
+            "text": "28 kg",
+            "image": ""
+          },
+          {
+            "text": "32 kg",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Finding the mass of an object with variable linear mass density. The mass $M$ of a rod with non-uniform linear density $\\rho(x)$ is calculated by integrating the density over its entire length: $M = \\int \\rho(x) dx$.</div><p><strong>Correct Answer: 22 kg</strong></p><p><strong>Step I:</strong> Express the elementary mass $dm$ of a small length $dx$ as $dm = \\rho dx = (1.5 + 2x) dx$.<br><strong>Step II:</strong> Set up the definite integral for total mass $M$ by integrating $dm$ from $x = 0$ to $x = 4$: $M = \\int_0^4 (1.5 + 2x) dx$.<br><strong>Step III:</strong> Find the antiderivative: $\\int (1.5 + 2x) dx = 1.5x + \\frac{2x^2}{2} = 1.5x + x^2$.<br><strong>Step IV:</strong> Apply the upper and lower limits (from 0 to 4): $M = [1.5(4) + (4)^2] - [1.5(0) + (0)^2]$.<br><strong>Step V:</strong> Calculate the final value: $M = (6 + 16) - 0 = 22~kg$.</p>",
+        "_aimcq_title_hi": "एक धातु की छड़ x-अक्ष पर $x=0$ m से $x=4$ m तक फैली हुई है...",
+        "_aimcq_question_content_hi": "<div>एक धातु की छड़ x-अक्ष पर $x=0$ m से $x=4$ m तक फैली हुई है। इसका रैखिक घनत्व $\\rho$ (द्रव्यमान/लंबाई) एकसमान नहीं है और मूल बिंदु से दूरी x के साथ समीकरण $\\rho=(1.5+2x)kg/m$ के अनुसार बदलता है। छड़ का द्रव्यमान क्या है :-</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "16 kg",
+            "image": ""
+          },
+          {
+            "text": "22 kg",
+            "image": ""
+          },
+          {
+            "text": "28 kg",
+            "image": ""
+          },
+          {
+            "text": "32 kg",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> परिवर्तनशील रैखिक द्रव्यमान घनत्व वाली वस्तु का द्रव्यमान ज्ञात करना। असमान रैखिक घनत्व $\\rho(x)$ वाली छड़ के द्रव्यमान $M$ की गणना उसकी पूरी लंबाई में घनत्व को एकीकृत (integrate) करके की जाती है: $M = \\int \\rho(x) dx$।</div><p><strong>सही उत्तर: 22 kg</strong></p><p><strong>Step I:</strong> एक छोटी लंबाई $dx$ के प्रारंभिक द्रव्यमान $dm$ को $dm = \\rho dx = (1.5 + 2x) dx$ के रूप में व्यक्त करें।<br><strong>Step II:</strong> कुल द्रव्यमान $M$ के लिए $dm$ को $x = 0$ से $x = 4$ तक एकीकृत करके निश्चित समाकलन (definite integral) सेट करें: $M = \\int_0^4 (1.5 + 2x) dx$।<br><strong>Step III:</strong> प्रतिअवकलज (antiderivative) ज्ञात करें: $\\int (1.5 + 2x) dx = 1.5x + \\frac{2x^2}{2} = 1.5x + x^2$।<br><strong>Step IV:</strong> ऊपरी और निचली सीमाएँ (0 से 4 तक) लागू करें: $M = [1.5(4) + (4)^2] - [1.5(0) + (0)^2]$।<br><strong>Step V:</strong> अंतिम मान की गणना करें: $M = (6 + 16) - 0 = 22~kg$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2023,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>The following curve represents a function $y=f(x)$. Find average value of y when x changes from 0 to 6.<br>[Figure: A graph where y starts at 20 from x=0 to x=2, decreases linearly crossing the x-axis at x=4 to reach a minimum y=-10 at x=5, then increases linearly back to y=0 at x=6.]</div>",
+      "post_title": "The following curve represents a function $y=f(x)$...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$\\frac{20}{3}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{25}{3}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{35}{3}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{40}{3}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> The average value of a function $f(x)$ over an interval $[a, b]$ is given by $y_{avg} = \\frac{1}{b-a} \\int_a^b f(x) dx$. Geometrically, the integral $\\int f(x) dx$ represents the net area under the curve (area above the x-axis is positive, area below is negative).</div><p><strong>Correct Answer: $\\frac{25}{3}$</strong></p><p><strong>Step I:</strong> Identify the formula for the average value: $y_{avg} = \\frac{\\text{Net Area}}{\\text{Total Width}} = \\frac{\\int_0^6 y dx}{6 - 0}$.<br><strong>Step II:</strong> Calculate Area 1 (rectangle from $x=0$ to $x=2$): Area = $\\text{base} \\times \\text{height} = 2 \\times 20 = 40$.<br><strong>Step III:</strong> Calculate Area 2 (triangle from $x=2$ to $x=4$ above the axis): Area = $\\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 2 \\times 20 = 20$.<br><strong>Step IV:</strong> Calculate Area 3 (triangle from $x=4$ to $x=6$ below the axis). The base is 2 and the altitude is $-10$: Area = $\\frac{1}{2} \\times 2 \\times (-10) = -10$.<br><strong>Step V:</strong> Sum the areas to find the net area: Net Area = $40 + 20 - 10 = 50$.<br><strong>Step VI:</strong> Calculate the average value: $y_{avg} = \\frac{50}{6} = \\frac{25}{3}$.</p>",
+        "_aimcq_title_hi": "निम्नलिखित वक्र एक फलन $y=f(x)$ का प्रतिनिधित्व करता है...",
+        "_aimcq_question_content_hi": "<div>निम्नलिखित वक्र एक फलन $y=f(x)$ का प्रतिनिधित्व करता है। जब x का मान 0 से 6 तक बदलता है तो y का औसत मान ज्ञात कीजिए।<br>[चित्र: एक ग्राफ जहाँ y, x=0 से x=2 तक 20 पर शुरू होता है, रैखिक रूप से घटते हुए x=4 पर x-अक्ष को पार करता है और x=5 पर न्यूनतम y=-10 तक पहुँचता है, फिर रैखिक रूप से बढ़कर x=6 पर y=0 पर वापस आ जाता है।]</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$\\frac{20}{3}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{25}{3}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{35}{3}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{40}{3}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> अंतराल $[a, b]$ पर फलन $f(x)$ का औसत मान $y_{avg} = \\frac{1}{b-a} \\int_a^b f(x) dx$ द्वारा दिया जाता है। ज्यामितीय रूप से, समाकलन $\\int f(x) dx$ वक्र के अंतर्गत शुद्ध क्षेत्रफल (x-अक्ष के ऊपर का क्षेत्रफल धनात्मक और नीचे का क्षेत्रफल ऋणात्मक होता है) का प्रतिनिधित्व करता है।</div><p><strong>सही उत्तर: $\\frac{25}{3}$</strong></p><p><strong>Step I:</strong> औसत मान का सूत्र पहचानें: $y_{avg} = \\frac{\\text{शुद्ध क्षेत्रफल}}{\\text{कुल चौड़ाई}} = \\frac{\\int_0^6 y dx}{6 - 0}$।<br><strong>Step II:</strong> क्षेत्रफल 1 ($x=0$ से $x=2$ तक का आयत) की गणना करें: क्षेत्रफल = $\\text{आधार} \\times \\text{ऊंचाई} = 2 \\times 20 = 40$।<br><strong>Step III:</strong> क्षेत्रफल 2 (अक्ष के ऊपर $x=2$ से $x=4$ तक का त्रिभुज) की गणना करें: क्षेत्रफल = $\\frac{1}{2} \\times \\text{आधार} \\times \\text{ऊंचाई} = \\frac{1}{2} \\times 2 \\times 20 = 20$।<br><strong>Step IV:</strong> क्षेत्रफल 3 (अक्ष के नीचे $x=4$ से $x=6$ तक का त्रिभुज) की गणना करें। आधार 2 है और ऊँचाई $-10$ है: क्षेत्रफल = $\\frac{1}{2} \\times 2 \\times (-10) = -10$।<br><strong>Step V:</strong> शुद्ध क्षेत्रफल (Net Area) ज्ञात करने के लिए क्षेत्रफलों को जोड़ें: शुद्ध क्षेत्रफल = $40 + 20 - 10 = 50$।<br><strong>Step VI:</strong> औसत मान की गणना करें: $y_{avg} = \\frac{50}{6} = \\frac{25}{3}$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2024,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>Electric current in a wire is time rate of flow of charge. The charge in coulombs that passes through a wire after t seconds is given by the function $q(t)=t^{3}-2t^{2}+5t+2$. Determine the average current (in coulomb per second) during the first two seconds.</div>",
+      "post_title": "Electric current in a wire is time rate of flow of charge...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "4A",
+            "image": ""
+          },
+          {
+            "text": "5A",
+            "image": ""
+          },
+          {
+            "text": "6A",
+            "image": ""
+          },
+          {
+            "text": "12A",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Average current is defined as the total charge transferred divided by the total time interval. Formula: $I_{avg} = \\frac{\\Delta q}{\\Delta t} = \\frac{q(t_2) - q(t_1)}{t_2 - t_1}$. This differs from instantaneous current which is the derivative $\\frac{dq}{dt}$.</div><p><strong>Correct Answer: 5A</strong></p><p><strong>Step I:</strong> Identify the initial and final time for the \"first two seconds\": $t_1 = 0$ and $t_2 = 2$.<br><strong>Step II:</strong> Calculate the initial charge at $t=0$: $q(0) = (0)^3 - 2(0)^2 + 5(0) + 2 = 2~C$.<br><strong>Step III:</strong> Calculate the final charge at $t=2$: $q(2) = (2)^3 - 2(2)^2 + 5(2) + 2 = 8 - 8 + 10 + 2 = 12~C$.<br><strong>Step IV:</strong> Find the total charge transferred ($\\Delta q$): $12~C - 2~C = 10~C$.<br><strong>Step V:</strong> Calculate the average current by dividing the transferred charge by the time interval ($\\Delta t = 2 - 0 = 2~s$): $I_{avg} = \\frac{10}{2} = 5~A$.</p>",
+        "_aimcq_title_hi": "एक तार में विद्युत धारा आवेश प्रवाह की समय दर है...",
+        "_aimcq_question_content_hi": "<div>एक तार में विद्युत धारा आवेश प्रवाह की समय दर है। t सेकंड के बाद तार से गुजरने वाला आवेश (कूलॉम में) फलन $q(t)=t^{3}-2t^{2}+5t+2$ द्वारा दिया गया है। पहले दो सेकंड के दौरान औसत धारा (कूलॉम प्रति सेकंड में) ज्ञात कीजिए।</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "4A",
+            "image": ""
+          },
+          {
+            "text": "5A",
+            "image": ""
+          },
+          {
+            "text": "6A",
+            "image": ""
+          },
+          {
+            "text": "12A",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> औसत धारा (Average current) को कुल स्थानांतरित आवेश और कुल समय अंतराल के अनुपात के रूप में परिभाषित किया जाता है। सूत्र: $I_{avg} = \\frac{\\Delta q}{\\Delta t} = \\frac{q(t_2) - q(t_1)}{t_2 - t_1}$। यह तात्कालिक धारा (instantaneous current) से भिन्न है जो अवकलज $\\frac{dq}{dt}$ होती है।</div><p><strong>सही उत्तर: 5A</strong></p><p><strong>Step I:</strong> \"पहले दो सेकंड\" के लिए प्रारंभिक और अंतिम समय की पहचान करें: $t_1 = 0$ और $t_2 = 2$।<br><strong>Step II:</strong> $t=0$ पर प्रारंभिक आवेश की गणना करें: $q(0) = (0)^3 - 2(0)^2 + 5(0) + 2 = 2~C$।<br><strong>Step III:</strong> $t=2$ पर अंतिम आवेश की गणना करें: $q(2) = (2)^3 - 2(2)^2 + 5(2) + 2 = 8 - 8 + 10 + 2 = 12~C$।<br><strong>Step IV:</strong> कुल स्थानांतरित आवेश ($\\Delta q$) ज्ञात करें: $12~C - 2~C = 10~C$।<br><strong>Step V:</strong> स्थानांतरित आवेश को समय अंतराल ($\\Delta t = 2 - 0 = 2~s$) से विभाजित करके औसत धारा की गणना करें: $I_{avg} = \\frac{10}{2} = 5~A$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2025,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>Find $\\int_{n-1}^{n}(3+4t)dt:$</div>",
+      "post_title": "Find $\\int_{n-1}^{n}(3+4t)dt:$",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$4n+1$",
+            "image": ""
+          },
+          {
+            "text": "$4n+5$",
+            "image": ""
+          },
+          {
+            "text": "$2n^{2}+1$",
+            "image": ""
+          },
+          {
+            "text": "$4n^{2}+5$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Definite Integration. The Fundamental Theorem of Calculus states that $\\int_a^b f(t)dt = F(b) - F(a)$, where $F(t)$ is the antiderivative of $f(t)$. Apply standard integration rules: $\\int t^k dt = \\frac{t^{k+1}}{k+1}$.</div><p><strong>Correct Answer: $4n+1$</strong></p><p><strong>Step I:</strong> Find the indefinite integral (antiderivative) of $(3 + 4t)$ with respect to $t$: $\\int (3 + 4t) dt = 3t + \\frac{4t^2}{2} = 3t + 2t^2$.<br><strong>Step II:</strong> Substitute the upper limit $n$ into the integrated expression: $F(n) = 3n + 2n^2$.<br><strong>Step III:</strong> Substitute the lower limit $(n-1)$ into the integrated expression: $F(n-1) = 3(n-1) + 2(n-1)^2$.<br><strong>Step IV:</strong> Expand the expression for the lower limit: $3n - 3 + 2(n^2 - 2n + 1) = 3n - 3 + 2n^2 - 4n + 2 = 2n^2 - n - 1$.<br><strong>Step V:</strong> Subtract the lower limit result from the upper limit result: $(3n + 2n^2) - (2n^2 - n - 1)$.<br><strong>Step VI:</strong> Simplify to get the final answer: $3n + 2n^2 - 2n^2 + n + 1 = 4n + 1$.</p>",
+        "_aimcq_title_hi": "ज्ञात करें $\\int_{n-1}^{n}(3+4t)dt:$",
+        "_aimcq_question_content_hi": "<div>ज्ञात करें $\\int_{n-1}^{n}(3+4t)dt:$</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$4n+1$",
+            "image": ""
+          },
+          {
+            "text": "$4n+5$",
+            "image": ""
+          },
+          {
+            "text": "$2n^{2}+1$",
+            "image": ""
+          },
+          {
+            "text": "$4n^{2}+5$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> निश्चित समाकलन (Definite Integration)। कैलकुलस का मौलिक प्रमेय (Fundamental Theorem of Calculus) बताता है कि $\\int_a^b f(t)dt = F(b) - F(a)$, जहाँ $F(t)$, $f(t)$ का प्रतिअवकलज (antiderivative) है। मानक एकीकरण नियमों को लागू करें: $\\int t^k dt = \\frac{t^{k+1}}{k+1}$।</div><p><strong>सही उत्तर: $4n+1$</strong></p><p><strong>Step I:</strong> $t$ के सापेक्ष $(3 + 4t)$ का अनिश्चित समाकलन (प्रतिअवकलज) ज्ञात करें: $\\int (3 + 4t) dt = 3t + \\frac{4t^2}{2} = 3t + 2t^2$।<br><strong>Step II:</strong> समाकलित व्यंजक में ऊपरी सीमा $n$ प्रतिस्थापित करें: $F(n) = 3n + 2n^2$।<br><strong>Step III:</strong> समाकलित व्यंजक में निचली सीमा $(n-1)$ प्रतिस्थापित करें: $F(n-1) = 3(n-1) + 2(n-1)^2$।<br><strong>Step IV:</strong> निचली सीमा के व्यंजक का विस्तार करें: $3n - 3 + 2(n^2 - 2n + 1) = 3n - 3 + 2n^2 - 4n + 2 = 2n^2 - n - 1$।<br><strong>Step V:</strong> ऊपरी सीमा के परिणाम में से निचली सीमा का परिणाम घटाएं: $(3n + 2n^2) - (2n^2 - n - 1)$।<br><strong>Step VI:</strong> अंतिम उत्तर प्राप्त करने के लिए सरल करें: $3n + 2n^2 - 2n^2 + n + 1 = 4n + 1$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2026,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>Given that acceleration due to gravity (g) varies inversely as the square of the distance from the centre of the earth. Find its value at a height of 1600 km from the earth surface. The value of 'g' at the surface is $10~ms^{-2}$. Radius of the earth $=6400~km.$</div>",
+      "post_title": "Given that acceleration due to gravity (g) varies inversely...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$6.4~ms^{-2}$",
+            "image": ""
+          },
+          {
+            "text": "$5~ms^{-2}$",
+            "image": ""
+          },
+          {
+            "text": "$10~ms^{-2}$",
+            "image": ""
+          },
+          {
+            "text": "$7.2~ms^{-2}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Variation of acceleration due to gravity with height. Gravity follows an inverse-square law with respect to distance from the center of mass: $g \\propto \\frac{1}{r^2}$. For a height $h$ above the surface, the distance is $(R + h)$, resulting in the formula $g' = g \\left(\\frac{R}{R+h}\\right)^2$.</div><p><strong>Correct Answer: $6.4~ms^{-2}$</strong></p><p><strong>Step I:</strong> Write the formula for gravity at a height $h$: $g' = g \\left(\\frac{R}{R+h}\\right)^2$, where $R$ is the Earth's radius.<br><strong>Step II:</strong> Identify the given values: surface gravity $g = 10~ms^{-2}$, radius $R = 6400~km$, and height $h = 1600~km$.<br><strong>Step III:</strong> Calculate the total distance from the center: $R + h = 6400 + 1600 = 8000~km$.<br><strong>Step IV:</strong> Determine the ratio $\\frac{R}{R+h} = \\frac{6400}{8000} = \\frac{64}{80} = \\frac{4}{5}$.<br><strong>Step V:</strong> Substitute the ratio into the formula: $g' = 10 \\times \\left(\\frac{4}{5}\\right)^2 = 10 \\times \\frac{16}{25}$.<br><strong>Step VI:</strong> Simplify the calculation: $g' = \\frac{160}{25} = 6.4~ms^{-2}$.</p>",
+        "_aimcq_title_hi": "दिया गया है कि गुरुत्वीय त्वरण (g) पृथ्वी के केंद्र से दूरी के...",
+        "_aimcq_question_content_hi": "<div>दिया गया है कि गुरुत्वीय त्वरण (g) पृथ्वी के केंद्र से दूरी के वर्ग के व्युत्क्रमानुपाती होता है। पृथ्वी की सतह से 1600 किमी की ऊंचाई पर इसका मान ज्ञात कीजिए। सतह पर 'g' का मान $10~ms^{-2}$ है। पृथ्वी की त्रिज्या $=6400~km.$</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$6.4~ms^{-2}$",
+            "image": ""
+          },
+          {
+            "text": "$5~ms^{-2}$",
+            "image": ""
+          },
+          {
+            "text": "$10~ms^{-2}$",
+            "image": ""
+          },
+          {
+            "text": "$7.2~ms^{-2}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> ऊंचाई के साथ गुरुत्वीय त्वरण में परिवर्तन। गुरुत्वाकर्षण द्रव्यमान के केंद्र से दूरी के संबंध में एक व्युत्क्रम-वर्ग नियम (inverse-square law) का पालन करता है: $g \\propto \\frac{1}{r^2}$। सतह से ऊपर की ऊंचाई $h$ के लिए, दूरी $(R + h)$ होती है, जिसके परिणामस्वरूप सूत्र $g' = g \\left(\\frac{R}{R+h}\\right)^2$ प्राप्त होता है।</div><p><strong>सही उत्तर: $6.4~ms^{-2}$</strong></p><p><strong>Step I:</strong> ऊंचाई $h$ पर गुरुत्वाकर्षण का सूत्र लिखें: $g' = g \\left(\\frac{R}{R+h}\\right)^2$, जहाँ $R$ पृथ्वी की त्रिज्या है।<br><strong>Step II:</strong> दिए गए मानों को पहचानें: सतह का गुरुत्वाकर्षण $g = 10~ms^{-2}$, त्रिज्या $R = 6400~km$, और ऊंचाई $h = 1600~km$।<br><strong>Step III:</strong> केंद्र से कुल दूरी की गणना करें: $R + h = 6400 + 1600 = 8000~km$।<br><strong>Step IV:</strong> अनुपात $\\frac{R}{R+h} = \\frac{6400}{8000} = \\frac{64}{80} = \\frac{4}{5}$ ज्ञात करें।<br><strong>Step V:</strong> सूत्र में अनुपात को प्रतिस्थापित करें: $g' = 10 \\times \\left(\\frac{4}{5}\\right)^2 = 10 \\times \\frac{16}{25}$।<br><strong>Step VI:</strong> गणना को सरल करें: $g' = \\frac{160}{25} = 6.4~ms^{-2}$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2027,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>A body falls from a height of $h=3m.$ What is the total distance (in meters) it travels before it stops, if the body falls from a height h, strikes the ground and rebounds to a height $e^{2}h$, falls down $e^{2}h$ and then rebounds back to a height $e^{4}h$ and so on. The coefficient of restitution between body and ground is $e=\\frac{1}{\\sqrt{3}}$.</div>",
+      "post_title": "A body falls from a height of $h=3m.$ What is the total distance...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "8 m",
+            "image": ""
+          },
+          {
+            "text": "6 m",
+            "image": ""
+          },
+          {
+            "text": "9 m",
+            "image": ""
+          },
+          {
+            "text": "12 m",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Inelastic collisions and infinite geometric series. In a bouncing ball sequence, the height reached after the $n$-th bounce is $h_n = e^{2n}h$. The total distance traveled includes the initial drop plus twice the sum of all subsequent rebound heights (up and down). The sum of an infinite geometric series is $S_{\\infty} = \\frac{a}{1-r}$.</div><p><strong>Correct Answer: 6 m</strong></p><p><strong>Step I:</strong> Write the expression for the total distance $D$ traveled: $D = h + 2(e^2h) + 2(e^4h) + 2(e^6h) + \\dots$.<br><strong>Step II:</strong> Factor out $2e^2h$ from the infinite series part: $D = h + 2e^2h (1 + e^2 + e^4 + \\dots)$.<br><strong>Step III:</strong> Recognize the series $(1 + e^2 + e^4 + \\dots)$ as an infinite geometric series with first term $a=1$ and common ratio $r=e^2$. Sum $= \\frac{1}{1 - e^2}$.<br><strong>Step IV:</strong> Substitute the sum into the distance formula: $D = h + \\frac{2e^2h}{1 - e^2} = h \\left(1 + \\frac{2e^2}{1 - e^2}\\right) = h \\left(\\frac{1 + e^2}{1 - e^2}\\right)$.<br><strong>Step V:</strong> Identify the given values: $h = 3~m$ and $e = \\frac{1}{\\sqrt{3}}$, which means $e^2 = \\frac{1}{3}$.<br><strong>Step VI:</strong> Substitute the values into the simplified formula: $D = 3 \\times \\frac{1 + 1/3}{1 - 1/3} = 3 \\times \\frac{4/3}{2/3} = 3 \\times 2 = 6~m$.</p>",
+        "_aimcq_title_hi": "एक पिंड $h=3m$ की ऊंचाई से गिरता है। रुकने से पहले यह...",
+        "_aimcq_question_content_hi": "<div>एक पिंड $h=3m$ की ऊंचाई से गिरता है। रुकने से पहले यह कुल कितनी दूरी (मीटर में) तय करेगा, यदि पिंड ऊंचाई h से गिरता है, जमीन से टकराता है और $e^{2}h$ ऊंचाई तक उछलता है, $e^{2}h$ नीचे गिरता है और फिर $e^{4}h$ ऊंचाई तक वापस उछलता है और इसी तरह आगे भी। पिंड और जमीन के बीच प्रत्यावस्थान गुणांक (coefficient of restitution) $e=\\frac{1}{\\sqrt{3}}$ है।</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "8 m",
+            "image": ""
+          },
+          {
+            "text": "6 m",
+            "image": ""
+          },
+          {
+            "text": "9 m",
+            "image": ""
+          },
+          {
+            "text": "12 m",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> अप्रत्यास्थ संघट्ट (Inelastic collisions) और अनंत गुणोत्तर श्रेढ़ी। उछलती हुई गेंद के क्रम में, $n$-वीं उछाल के बाद पहुँची गई ऊँचाई $h_n = e^{2n}h$ होती है। तय की गई कुल दूरी में प्रारंभिक गिरावट और बाद की सभी उछाल ऊंचाइयों (ऊपर और नीचे) के योग का दोगुना शामिल होता है। एक अनंत गुणोत्तर श्रेढ़ी (infinite geometric series) का योग $S_{\\infty} = \\frac{a}{1-r}$ होता है।</div><p><strong>सही उत्तर: 6 m</strong></p><p><strong>Step I:</strong> तय की गई कुल दूरी $D$ के लिए व्यंजक लिखें: $D = h + 2(e^2h) + 2(e^4h) + 2(e^6h) + \\dots$<br><strong>Step II:</strong> अनंत श्रृंखला भाग से $2e^2h$ को कॉमन (factor out) लें: $D = h + 2e^2h (1 + e^2 + e^4 + \\dots)$।<br><strong>Step III:</strong> श्रृंखला $(1 + e^2 + e^4 + \\dots)$ को एक अनंत गुणोत्तर श्रेढ़ी के रूप में पहचानें जिसका प्रथम पद $a=1$ और सार्व अनुपात $r=e^2$ है। योग $= \\frac{1}{1 - e^2}$।<br><strong>Step IV:</strong> योग को दूरी के सूत्र में प्रतिस्थापित करें: $D = h + \\frac{2e^2h}{1 - e^2} = h \\left(1 + \\frac{2e^2}{1 - e^2}\\right) = h \\left(\\frac{1 + e^2}{1 - e^2}\\right)$।<br><strong>Step V:</strong> दिए गए मानों को पहचानें: $h = 3~m$ और $e = \\frac{1}{\\sqrt{3}}$, जिसका अर्थ है $e^2 = \\frac{1}{3}$।<br><strong>Step VI:</strong> मानों को सरलीकृत सूत्र में प्रतिस्थापित करें: $D = 3 \\times \\frac{1 + 1/3}{1 - 1/3} = 3 \\times \\frac{4/3}{2/3} = 3 \\times 2 = 6~m$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2001,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>Sunrays cast $4\\sqrt{3}m$ long shadow of a pole, when sun is $30^{\\circ}$ above the horizontal. When sun rises to $60^{\\circ}$ above the horizontal, length of the shadow becomes</div>",
+      "post_title": "Sunrays cast $4\\sqrt{3}m$ long shadow of a pole...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$\\frac{4}{\\sqrt{3}}m$",
+            "image": ""
+          },
+          {
+            "text": "$2\\sqrt{3}m$",
+            "image": ""
+          },
+          {
+            "text": "2m",
+            "image": ""
+          },
+          {
+            "text": "$2\\sqrt{2}m$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> In a right-angled triangle, the tangent of an angle is the ratio of the perpendicular (height) to the base (shadow). Formula: $\\tan(\\theta) = \\frac{\\text{Height}}{\\text{Shadow}}$. The physical height of the object remains constant regardless of the sun's angle.</div><p><strong>Correct Answer: $\\frac{4}{\\sqrt{3}}m$</strong></p><p><strong>Step I:</strong> Let the height of the pole be $h$.<br><strong>Step II:</strong> When the sun is $30^{\\circ}$ above the horizontal, we use the tangent function:<br>$\\tan 30^{\\circ} = \\frac{h}{4\\sqrt{3}} \\implies \\frac{1}{\\sqrt{3}} = \\frac{h}{4\\sqrt{3}} \\implies h = 4m$<br><strong>Step III:</strong> When the sun rises to $60^{\\circ}$ above the horizontal, let the new shadow length be $l$. We apply the tangent function again:<br>$\\tan 60^{\\circ} = \\frac{h}{l} \\implies \\sqrt{3} = \\frac{4}{l} \\implies l = \\frac{4}{\\sqrt{3}}m$</p>",
+        "_aimcq_title_hi": "सूर्य की किरणें एक खंभे की $4\\sqrt{3}m$ लंबी छाया डालती हैं...",
+        "_aimcq_question_content_hi": "<div>सूर्य की किरणें एक खंभे की $4\\sqrt{3}m$ लंबी छाया डालती हैं, जब सूर्य क्षैतिज से $30^{\\circ}$ ऊपर होता है। जब सूर्य क्षैतिज से $60^{\\circ}$ ऊपर उठता है, तो छाया की लंबाई हो जाती है</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$\\frac{4}{\\sqrt{3}}m$",
+            "image": ""
+          },
+          {
+            "text": "$2\\sqrt{3}m$",
+            "image": ""
+          },
+          {
+            "text": "2m",
+            "image": ""
+          },
+          {
+            "text": "$2\\sqrt{2}m$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> एक समकोण त्रिभुज में, किसी कोण का स्पर्शज्या (tangent) लंब (ऊंचाई) और आधार (छाया) का अनुपात होता है। सूत्र: $\\tan(\\theta) = \\frac{\\text{ऊंचाई}}{\\text{छाया}}$। सूर्य के कोण की परवाह किए बिना वस्तु की भौतिक ऊंचाई स्थिर रहती है।</div><p><strong>सही उत्तर: $\\frac{4}{\\sqrt{3}}m$</strong></p><p><strong>Step I:</strong> माना खंभे की ऊंचाई $h$ है।<br><strong>Step II:</strong> जब सूर्य क्षैतिज से $30^{\\circ}$ ऊपर होता है:<br>$\\tan 30^{\\circ} = \\frac{h}{4\\sqrt{3}} \\implies \\frac{1}{\\sqrt{3}} = \\frac{h}{4\\sqrt{3}} \\implies h = 4m$<br><strong>Step III:</strong> जब सूर्य क्षैतिज से $60^{\\circ}$ ऊपर उठता है, तो माना नई छाया की लंबाई $l$ है:<br>$\\tan 60^{\\circ} = \\frac{h}{l} \\implies \\sqrt{3} = \\frac{4}{l} \\implies l = \\frac{4}{\\sqrt{3}}m$</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2002,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>An airplane takes off at an angle $30^{\\circ}$ with the horizontal ground traveling at the speed of $180~km/h.$ If it continues to fly with the same velocity in the same direction, how long will it take to reach an altitude of 9 km above the ground :-</div>",
+      "post_title": "An airplane takes off at an angle $30^{\\circ}$ with the horizontal...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "5 min.",
+            "image": ""
+          },
+          {
+            "text": "6 min.",
+            "image": ""
+          },
+          {
+            "text": "8 min.",
+            "image": ""
+          },
+          {
+            "text": "9 min.",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Vectors can be resolved into mutually perpendicular components. The vertical component of velocity $v$ at an angle $\\theta$ with the horizontal is $v_y = v \\sin \\theta$. Kinematics formula for constant velocity: $\\text{Time} = \\frac{\\text{Distance}}{\\text{Speed}}$.</div><p><strong>Correct Answer: 6 min.</strong></p><p><strong>Step I:</strong> Find the vertical component of the airplane's velocity: $v_y = v \\sin 30^{\\circ} = 180 \\times \\frac{1}{2} = 90~km/h$.<br><strong>Step II:</strong> Note the required altitude (vertical distance) is $h = 9~km$.<br><strong>Step III:</strong> Calculate the time taken to reach this altitude using $t = \\frac{h}{v_y} = \\frac{9}{90} = \\frac{1}{10}~hours$.<br><strong>Step IV:</strong> Convert the time from hours to minutes: $\\frac{1}{10} \\times 60 = 6~minutes$.</p>",
+        "_aimcq_title_hi": "एक हवाई जहाज क्षैतिज जमीन के साथ $30^{\\circ}$ के कोण पर...",
+        "_aimcq_question_content_hi": "<div>एक हवाई जहाज 180 किमी/घंटा की गति से क्षैतिज जमीन के साथ $30^{\\circ}$ के कोण पर उड़ान भरता है। यदि यह समान दिशा में समान वेग से उड़ना जारी रखता है, तो इसे जमीन से 9 किमी की ऊंचाई तक पहुंचने में कितना समय लगेगा :-</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "5 मिनट",
+            "image": ""
+          },
+          {
+            "text": "6 मिनट",
+            "image": ""
+          },
+          {
+            "text": "8 मिनट",
+            "image": ""
+          },
+          {
+            "text": "9 मिनट",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> सदिशों (Vectors) को परस्पर लंबवत घटकों में वियोजित किया जा सकता है। क्षैतिज से $\\theta$ कोण पर वेग $v$ का ऊर्ध्वाधर घटक $v_y = v \\sin \\theta$ होता है। नियत वेग के लिए गतिज सूत्र: $\\text{समय} = \\frac{\\text{दूरी}}{\\text{चाल}}$।</div><p><strong>सही उत्तर: 6 मिनट</strong></p><p><strong>Step I:</strong> हवाई जहाज के वेग का ऊर्ध्वाधर घटक (Vertical component) ज्ञात करें: $v_y = v \\sin 30^{\\circ} = 180 \\times \\frac{1}{2} = 90~km/h$।<br><strong>Step II:</strong> आवश्यक ऊंचाई $h = 9~km$ है।<br><strong>Step III:</strong> इस ऊंचाई तक पहुंचने में लगा समय निकालें: $t = \\frac{h}{v_y} = \\frac{9}{90} = \\frac{1}{10}~घंटे$।<br><strong>Step IV:</strong> घंटे को मिनट में बदलें: $\\frac{1}{10} \\times 60 = 6~मिनट$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2003,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>The values of $\\sin~\\theta_{1}$, $\\cos^{2}\\theta_{2}$ and $\\tan~\\theta_{3}$ are given as $\\frac{1}{2}$, $-\\frac{1}{2}$ and $3$ (not in order), for some angles $\\theta_{1}$, $\\theta_{2}$ and $\\theta_{3}.$ Choose correct option :-</div>",
+      "post_title": "The values of $\\sin~\\theta_{1}$, $\\cos^{2}\\theta_{2}$ and $\\tan~\\theta_{3}$...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$\\sin~\\theta_{1}=\\frac{1}{2}, \\cos^{2}\\theta_{2}=3, \\tan~\\theta_{3}=-\\frac{1}{2}$",
+            "image": ""
+          },
+          {
+            "text": "$\\sin~\\theta_{1}=-\\frac{1}{2}, \\cos^{2}\\theta_{2}=\\frac{1}{2}, \\tan~\\theta_{3}=3$",
+            "image": ""
+          },
+          {
+            "text": "$\\sin~\\theta_{1}=\\frac{1}{2}, \\cos^{2}\\theta_{2}=-\\frac{1}{2}, \\tan~\\theta_{3}=3$",
+            "image": ""
+          },
+          {
+            "text": "$\\sin~\\theta_{1}=-\\frac{1}{2}, \\cos^{2}\\theta_{2}=3, \\tan~\\theta_{3}=\\frac{1}{2}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Basic properties and ranges of trigonometric functions: The sine function is bounded between -1 and 1 ($-1 \\le \\sin \\theta \\le 1$). The square of any real function, like $\\cos^2 \\theta$, must be positive and bounded between 0 and 1 ($0 \\le \\cos^2 \\theta \\le 1$). The tangent function can take any real value ($-\\infty < \\tan \\theta < \\infty$).</div><p><strong>Correct Answer: $\\sin~\\theta_{1}=-\\frac{1}{2}, \\cos^{2}\\theta_{2}=\\frac{1}{2}, \\tan~\\theta_{3}=3$</strong></p><p><strong>Step I:</strong> Evaluate the possible range for $\\cos^{2}\\theta_{2}$. It must be positive and between 0 and 1. Out of the given values ($\\frac{1}{2}$, $-\\frac{1}{2}$, $3$), the only valid value is $\\frac{1}{2}$.<br><strong>Step II:</strong> Evaluate the range for $\\sin~\\theta_{1}$. It must be between -1 and 1. Since $\\frac{1}{2}$ is already assigned, it must be $-\\frac{1}{2}$.<br><strong>Step III:</strong> Assign the remaining value. $\\tan~\\theta_{3}$ can take any real value, so it takes the remaining value of $3$.</p>",
+        "_aimcq_title_hi": "$\\sin~\\theta_{1}$, $\\cos^{2}\\theta_{2}$ और $\\tan~\\theta_{3}$ के मान...",
+        "_aimcq_question_content_hi": "<div>कुछ कोणों $\\theta_{1}$, $\\theta_{2}$ और $\\theta_{3}$ के लिए $\\sin~\\theta_{1}$, $\\cos^{2}\\theta_{2}$ और $\\tan~\\theta_{3}$ के मान $\\frac{1}{2}$, $-\\frac{1}{2}$ और $3$ (क्रम में नहीं) दिए गए हैं। सही विकल्प चुनें :-</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$\\sin~\\theta_{1}=\\frac{1}{2}, \\cos^{2}\\theta_{2}=3, \\tan~\\theta_{3}=-\\frac{1}{2}$",
+            "image": ""
+          },
+          {
+            "text": "$\\sin~\\theta_{1}=-\\frac{1}{2}, \\cos^{2}\\theta_{2}=\\frac{1}{2}, \\tan~\\theta_{3}=3$",
+            "image": ""
+          },
+          {
+            "text": "$\\sin~\\theta_{1}=\\frac{1}{2}, \\cos^{2}\\theta_{2}=-\\frac{1}{2}, \\tan~\\theta_{3}=3$",
+            "image": ""
+          },
+          {
+            "text": "$\\sin~\\theta_{1}=-\\frac{1}{2}, \\cos^{2}\\theta_{2}=3, \\tan~\\theta_{3}=\\frac{1}{2}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> त्रिकोणमितीय फलनों के मूल गुण और सीमाएँ (Ranges): साइन (sine) फलन -1 और 1 के बीच होता है ($-1 \\le \\sin \\theta \\le 1$)। किसी भी वास्तविक फलन का वर्ग, जैसे $\\cos^2 \\theta$, धनात्मक और 0 तथा 1 के बीच होना चाहिए ($0 \\le \\cos^2 \\theta \\le 1$)। टेंजेंट (tangent) फलन कोई भी वास्तविक मान ले सकता है ($-\\infty < \\tan \\theta < \\infty$)।</div><p><strong>सही उत्तर: $\\sin~\\theta_{1}=-\\frac{1}{2}, \\cos^{2}\\theta_{2}=\\frac{1}{2}, \\tan~\\theta_{3}=3$</strong></p><p><strong>Step I:</strong> $\\cos^{2}\\theta_{2}$ के संभावित मान का मूल्यांकन करें। यह धनात्मक और 0 से 1 के बीच होना चाहिए। दिए गए मानों ($\\frac{1}{2}$, $-\\frac{1}{2}$, $3$) में से एकमात्र वैध मान $\\frac{1}{2}$ है।<br><strong>Step II:</strong> $\\sin~\\theta_{1}$ के मान का मूल्यांकन करें। यह -1 से 1 के बीच होना चाहिए। चूँकि $\\frac{1}{2}$ लिया जा चुका है, इसलिए यह $-\\frac{1}{2}$ होना चाहिए।<br><strong>Step III:</strong> बचा हुआ मान निर्धारित करें। $\\tan~\\theta_{3}$ कोई भी वास्तविक मान ले सकता है, इसलिए यह बचा हुआ मान $3$ लेगा।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2004,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>The bottom of an electric pole of height 30m is situated at a distance of $30\\sqrt{3}m$ from you due $60^{\\circ}$ North of East. The magnitude of the position vector of a crow sitting on the top of the pole relative to you is</div>",
+      "post_title": "The bottom of an electric pole of height 30m is situated...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "30 m",
+            "image": ""
+          },
+          {
+            "text": "$30\\sqrt{3}m$",
+            "image": ""
+          },
+          {
+            "text": "60 m",
+            "image": ""
+          },
+          {
+            "text": "50 m",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Position vectors in 3D space. If a point has a horizontal distance $r$ from the origin and a vertical height $h$, it forms a right-angled triangle in 3D space. By the Pythagorean theorem, the magnitude of the resultant position vector is $R = \\sqrt{r^2 + h^2}$. Direction (e.g., $60^{\\circ}$ North of East) affects components but not the direct magnitude formula from the origin.</div><p><strong>Correct Answer: 60 m</strong></p><p><strong>Step I:</strong> Let your position be the origin $(0,0,0)$.<br><strong>Step II:</strong> The base of the pole is at a distance $r = 30\\sqrt{3}m$ in the horizontal plane.<br><strong>Step III:</strong> The height of the pole is $h = 30m$, which forms the vertical z-axis component.<br><strong>Step IV:</strong> The position vector of the crow at the top of the pole forms a right-angled triangle with the base distance and the pole's height. Calculate the magnitude: $R = \\sqrt{r^2 + h^2} = \\sqrt{(30\\sqrt{3})^2 + 30^2} = \\sqrt{2700 + 900} = \\sqrt{3600} = 60m$.</p>",
+        "_aimcq_title_hi": "30 मीटर ऊंचे बिजली के खंभे का तल...",
+        "_aimcq_question_content_hi": "<div>30 मीटर ऊंचे बिजली के खंभे का तल आपसे पूर्व से $60^{\\circ}$ उत्तर की ओर $30\\sqrt{3}m$ की दूरी पर स्थित है। आपके सापेक्ष खंभे के शीर्ष पर बैठे एक कौवे के स्थिति सदिश का परिमाण है:</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "30 m",
+            "image": ""
+          },
+          {
+            "text": "$30\\sqrt{3}m$",
+            "image": ""
+          },
+          {
+            "text": "60 m",
+            "image": ""
+          },
+          {
+            "text": "50 m",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> 3D स्पेस में स्थिति सदिश (Position vectors)। यदि किसी बिंदु की मूल बिंदु से क्षैतिज दूरी $r$ और ऊर्ध्वाधर ऊंचाई $h$ है, तो यह 3D स्पेस में एक समकोण त्रिभुज बनाता है। पाइथागोरस प्रमेय (Pythagorean theorem) के अनुसार, परिणामी स्थिति सदिश का परिमाण $R = \\sqrt{r^2 + h^2}$ होता है। दिशा का परिमाण के प्रत्यक्ष सूत्र पर कोई प्रभाव नहीं पड़ता है।</div><p><strong>सही उत्तर: 60 m</strong></p><p><strong>Step I:</strong> मान लीजिए कि आपकी स्थिति मूल बिंदु $(0,0,0)$ है।<br><strong>Step II:</strong> खंभे का आधार क्षैतिज तल में $r = 30\\sqrt{3}m$ की दूरी पर है।<br><strong>Step III:</strong> खंभे की ऊंचाई $h = 30m$ है, जो ऊर्ध्वाधर z-अक्ष घटक बनाता है।<br><strong>Step IV:</strong> खंभे के शीर्ष पर बैठे कौवे का स्थिति सदिश एक समकोण त्रिभुज बनाता है। परिमाण की गणना करें: $R = \\sqrt{r^2 + h^2} = \\sqrt{(30\\sqrt{3})^2 + 30^2} = \\sqrt{2700 + 900} = \\sqrt{3600} = 60m$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2005,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>A normal human eye can see an object making an angle of $1.8^{\\circ}$ at the eye. What is the min. height of object which can be seen by an eye placed at a distance of 1 m from the object?<br>[Figure: A triangle showing angle $1.8^{\\circ}$ at the eye, base distance 1m, and height h]</div>",
+      "post_title": "A normal human eye can see an object making an angle...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$\\frac{\\pi}{2}$ cm",
+            "image": ""
+          },
+          {
+            "text": "$\\pi$ cm",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{\\pi}{4}$ cm",
+            "image": ""
+          },
+          {
+            "text": "$2\\pi$ cm",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> The relationship between arc length, radius, and angle is given by $\\text{Arc length} = \\text{Radius} \\times \\text{Angle in radians}$ ($l = r\\theta$). For small angles, the linear height of an object is mathematically equivalent to the arc length. To convert an angle from degrees to radians, multiply it by $\\frac{\\pi}{180}$.</div><p><strong>Correct Answer: \\pi cm</strong></p><p><strong>Step I:</strong> Identify the relationship between arc length (height $h$), radius (distance $r$), and angle $\\theta$ (in radians): $h = r \\times \\theta$.<br><strong>Step II:</strong> Note the distance $r = 1m = 100cm$.<br><strong>Step III:</strong> Convert the angle $\\theta = 1.8^{\\circ}$ from degrees to radians: $\\theta = 1.8 \\times \\frac{\\pi}{180} = \\frac{\\pi}{100}$ radians.<br><strong>Step IV:</strong> Calculate the height: $h = 100 \\times \\frac{\\pi}{100} = \\pi~cm$.</p>",
+        "_aimcq_title_hi": "एक सामान्य मानव आँख एक वस्तु को आँख पर $1.8^{\\circ}$...",
+        "_aimcq_question_content_hi": "<div>एक सामान्य मानव आँख एक वस्तु को आँख पर $1.8^{\\circ}$ का कोण बनाते हुए देख सकती है। उस वस्तु की न्यूनतम ऊंचाई क्या है जिसे वस्तु से 1 मीटर की दूरी पर रखी आंख द्वारा देखा जा सकता है?<br>[चित्र: आँख पर $1.8^{\\circ}$ का कोण, 1m की दूरी और h ऊंचाई दर्शाता एक त्रिभुज]</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$\\frac{\\pi}{2}$ cm",
+            "image": ""
+          },
+          {
+            "text": "$\\pi$ cm",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{\\pi}{4}$ cm",
+            "image": ""
+          },
+          {
+            "text": "$2\\pi$ cm",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> चाप की लंबाई (Arc length), त्रिज्या (radius) और कोण के बीच का संबंध $\\text{चाप की लंबाई} = \\text{त्रिज्या} \\times \\text{रेडियन में कोण}$ ($l = r\\theta$) द्वारा दिया जाता है। छोटे कोणों के लिए, वस्तु की रैखिक ऊंचाई गणितीय रूप से चाप की लंबाई के बराबर होती है। डिग्री को रेडियन में बदलने के लिए $\\frac{\\pi}{180}$ से गुणा करें।</div><p><strong>सही उत्तर: \\pi cm</strong></p><p><strong>Step I:</strong> चाप की लंबाई (ऊंचाई $h$), त्रिज्या (दूरी $r$) और कोण $\\theta$ (रेडियन में) के बीच संबंध पहचानें: $h = r \\times \\theta$।<br><strong>Step II:</strong> दी गई दूरी लिखें: $r = 1m = 100cm$।<br><strong>Step III:</strong> कोण $\\theta = 1.8^{\\circ}$ को डिग्री से रेडियन में बदलें: $\\theta = 1.8 \\times \\frac{\\pi}{180} = \\frac{\\pi}{100}$ रेडियन।<br><strong>Step IV:</strong> ऊंचाई की गणना करें: $h = 100 \\times \\frac{\\pi}{100} = \\pi~cm$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2006,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>In the following figure the curve represents the function<br>[Figure: A curve starting from the origin (0,0) and exponentially increasing to asymptotically approach a horizontal line at y = a as x increases]</div>",
+      "post_title": "In the following figure the curve represents the function...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$y=a-e^{-x}$",
+            "image": ""
+          },
+          {
+            "text": "$y=a(1+e^{-x})$",
+            "image": ""
+          },
+          {
+            "text": "$y=a(1-e^{-x})$",
+            "image": ""
+          },
+          {
+            "text": "$y=e^{x}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Behavior of exponential functions. The function $e^{-x}$ approaches 1 as $x \\to 0$ (since $e^0 = 1$), and it approaches 0 as $x \\to \\infty$. By substituting visual boundary values (like $x=0$ and $x=\\infty$) into the given equations, we can reliably match the mathematical equation to the limits of the graph.</div><p><strong>Correct Answer: y=a(1-e^{-x})</strong></p><p><strong>Step I:</strong> Analyze the graph at $x = 0$. The graph passes through the origin, so $y = 0$.<br><strong>Step II:</strong> Check the given options for $x=0$: (1) $a-e^{0} = a-1$; (2) $a(1+e^{0}) = 2a$; (3) $a(1-e^{0}) = 0$ (Matches); (4) $e^{0} = 1$.<br><strong>Step III:</strong> Analyze the graph at $x \\to \\infty$. The curve approaches the horizontal asymptote $y = a$.<br><strong>Step IV:</strong> Verify option (3) for $x \\to \\infty$: $e^{-x} \\to 0$, so $y \\to a(1-0) = a$. Thus, option (3) perfectly represents the curve.</p>",
+        "_aimcq_title_hi": "निम्नलिखित आकृति में वक्र किस फलन का प्रतिनिधित्व करता है...",
+        "_aimcq_question_content_hi": "<div>निम्नलिखित आकृति में वक्र फलन का प्रतिनिधित्व करता है<br>[चित्र: मूल बिंदु (0,0) से शुरू होकर घातांकीय रूप से बढ़ने वाला एक वक्र जो x के बढ़ने पर क्षैतिज रेखा y = a तक पहुंचता है]</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$y=a-e^{-x}$",
+            "image": ""
+          },
+          {
+            "text": "$y=a(1+e^{-x})$",
+            "image": ""
+          },
+          {
+            "text": "$y=a(1-e^{-x})$",
+            "image": ""
+          },
+          {
+            "text": "$y=e^{x}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> घातांकीय फलनों (Exponential functions) का व्यवहार। फलन $e^{-x}$, 1 के करीब पहुंचता है जब $x \\to 0$ ($e^0 = 1$), और यह 0 के करीब पहुंचता है जब $x \\to \\infty$। दिए गए समीकरणों में दृश्य सीमा मानों (जैसे $x=0$ और $x=\\infty$) को प्रतिस्थापित करके, हम ग्राफ की सीमाओं से सही समीकरण का मिलान कर सकते हैं।</div><p><strong>सही उत्तर: y=a(1-e^{-x})</strong></p><p><strong>Step I:</strong> $x = 0$ पर ग्राफ़ का विश्लेषण करें। ग्राफ़ मूल बिंदु से होकर गुजरता है, इसलिए $y = 0$।<br><strong>Step II:</strong> $x=0$ के लिए विकल्पों की जाँच करें: (1) $a-e^{0} = a-1$; (2) $a(1+e^{0}) = 2a$; (3) $a(1-e^{0}) = 0$ (मेल खाता है); (4) $e^{0} = 1$।<br><strong>Step III:</strong> $x \\to \\infty$ पर ग्राफ़ का विश्लेषण करें। वक्र क्षैतिज रेखा $y = a$ के करीब पहुँचता है।<br><strong>Step IV:</strong> $x \\to \\infty$ के लिए विकल्प (3) सत्यापित करें: $e^{-x} \\to 0$, इसलिए $y \\to a(1-0) = a$। इस प्रकार, विकल्प (3) वक्र का सटीक प्रतिनिधित्व करता है।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2007,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>In the following figures, a pair of curves is shown. In which of them the solid and the dashed curves represent function $y_{1}=2~\\sin(\\pi x)$ and $y_{2}=4~\\sin(2\\pi x)$?</div>",
+      "post_title": "In the following figures, a pair of curves is shown...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "[Figure 1]",
+            "image": ""
+          },
+          {
+            "text": "[Figure 2]",
+            "image": ""
+          },
+          {
+            "text": "[Figure 3]",
+            "image": ""
+          },
+          {
+            "text": "[Figure 4]",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> The general equation of a sinusoidal wave is $y = A \\sin(Bx)$. The coefficient '$A$' represents the Amplitude (maximum vertical peak height). The coefficient '$B$' determines the time period, governed by the formula $T = \\frac{2\\pi}{B}$. A numerically smaller time period implies the wave oscillates faster horizontally.</div><p><strong>Correct Answer: [Figure 3]</strong></p><p><strong>Step I:</strong> Analyze the first function $y_{1}=2~\\sin(\\pi x)$. It has an amplitude of 2 and a time period $T_1 = \\frac{2\\pi}{\\pi} = 2$.<br><strong>Step II:</strong> Analyze the second function $y_{2}=4~\\sin(2\\pi x)$. It has an amplitude of 4 and a time period $T_2 = \\frac{2\\pi}{2\\pi} = 1$.<br><strong>Step III:</strong> Compare the two curves. The dashed curve ($y_2$) must have twice the peak height (amplitude) of the solid curve ($y_1$).<br><strong>Step IV:</strong> Compare the periods. The dashed curve must complete two full cycles in the same horizontal space the solid curve completes one full cycle. Figure 3 correctly depicts this relationship.</p>",
+        "_aimcq_title_hi": "निम्नलिखित आकृतियों में, वक्रों का एक जोड़ा दिखाया गया है...",
+        "_aimcq_question_content_hi": "<div>निम्नलिखित आकृतियों में, वक्रों का एक जोड़ा दिखाया गया है। उनमें से किसमें ठोस और धराशायी (dashed) वक्र क्रमशः फलन $y_{1}=2~\\sin(\\pi x)$ और $y_{2}=4~\\sin(2\\pi x)$ का प्रतिनिधित्व करते हैं?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "[चित्र 1]",
+            "image": ""
+          },
+          {
+            "text": "[चित्र 2]",
+            "image": ""
+          },
+          {
+            "text": "[चित्र 3]",
+            "image": ""
+          },
+          {
+            "text": "[चित्र 4]",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> एक साइन तरंग (sinusoidal wave) का सामान्य समीकरण $y = A \\sin(Bx)$ है। गुणांक '$A$' आयाम (अधिकतम ऊर्ध्वाधर शिखर ऊंचाई) को दर्शाता है। गुणांक '$B$' आवर्तकाल (time period) निर्धारित करता है, जिसका सूत्र $T = \\frac{2\\pi}{B}$ है। संख्यात्मक रूप से छोटे आवर्तकाल का मतलब है कि तरंग क्षैतिज रूप से तेजी से दोलन करती है।</div><p><strong>सही उत्तर: [चित्र 3]</strong></p><p><strong>Step I:</strong> पहले फलन $y_{1}=2~\\sin(\\pi x)$ का विश्लेषण करें। इसका आयाम (Amplitude) 2 है और आवर्तकाल (Time period) $T_1 = \\frac{2\\pi}{\\pi} = 2$ है।<br><strong>Step II:</strong> दूसरे फलन $y_{2}=4~\\sin(2\\pi x)$ का विश्लेषण करें। इसका आयाम 4 है और आवर्तकाल $T_2 = \\frac{2\\pi}{2\\pi} = 1$ है।<br><strong>Step III:</strong> दोनों वक्रों की तुलना करें। डैश वाले वक्र ($y_2$) की अधिकतम ऊंचाई (आयाम) ठोस वक्र ($y_1$) की तुलना में दोगुनी होनी चाहिए।<br><strong>Step IV:</strong> आवर्तकाल की तुलना करें। जितने क्षैतिज स्थान में ठोस वक्र अपना एक चक्र पूरा करता है, उतने में डैश वाले वक्र को अपने दो पूर्ण चक्र पूरे करने चाहिए। चित्र 3 इस संबंध को सही ढंग से दर्शाता है।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2008,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>The graph of function $y=1+\\cos~x$ will be</div>",
+      "post_title": "The graph of function $y=1+\\cos~x$ will be",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "[Figure 1: Wave oscillating between 0 and 2, starting at y=2 at x=0]",
+            "image": ""
+          },
+          {
+            "text": "[Figure 2]",
+            "image": ""
+          },
+          {
+            "text": "[Figure 3]",
+            "image": ""
+          },
+          {
+            "text": "None of these",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Graph transformation. The standard cosine wave $y = \\cos x$ oscillates smoothly between a maximum of $+1$ and a minimum of $-1$. Adding a positive constant $c$ to the function, structured as $y = c + \\cos x$, vertically shifts the entire graph upward by $c$ units on the axis.</div><p><strong>Correct Answer: [Figure 1]</strong></p><p><strong>Step I:</strong> Consider the function $y = 1 + \\cos x$. The standard $\\cos x$ function oscillates between -1 and +1.<br><strong>Step II:</strong> Determine the new range. $y = 1 + \\cos x$ will oscillate between $1 + (-1) = 0$ and $1 + (+1) = 2$.<br><strong>Step III:</strong> Find the starting point at $x = 0$. $y = 1 + \\cos(0) = 1 + 1 = 2$.<br><strong>Step IV:</strong> Find the minimum point at $x = \\pi$. $y = 1 + \\cos(\\pi) = 1 - 1 = 0$. The graph must start at its peak $y = 2$ and never drop below the x-axis. Figure 1 matches this description.</p>",
+        "_aimcq_title_hi": "फलन $y=1+\\cos~x$ का ग्राफ होगा",
+        "_aimcq_question_content_hi": "<div>फलन $y=1+\\cos~x$ का ग्राफ होगा</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "[चित्र 1: 0 और 2 के बीच दोलन करने वाली तरंग, x=0 पर y=2 से शुरू]",
+            "image": ""
+          },
+          {
+            "text": "[चित्र 2]",
+            "image": ""
+          },
+          {
+            "text": "[चित्र 3]",
+            "image": ""
+          },
+          {
+            "text": "इनमें से कोई नहीं",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> ग्राफ रूपांतरण (Graph transformation)। मानक कोसाइन तरंग $y = \\cos x$ सुचारू रूप से अधिकतम $+1$ और न्यूनतम $-1$ के बीच दोलन करती है। फलन में एक धनात्मक स्थिरांक $c$ जोड़ने पर, जैसे $y = c + \\cos x$, पूरा ग्राफ ऊर्ध्वाधर अक्ष पर $c$ इकाई ऊपर खिसक जाता है।</div><p><strong>सही उत्तर: [चित्र 1]</strong></p><p><strong>Step I:</strong> फलन $y = 1 + \\cos x$ पर विचार करें। मानक $\\cos x$ फलन -1 और +1 के बीच दोलन करता है।<br><strong>Step II:</strong> नई सीमा निर्धारित करें। $y = 1 + \\cos x$, $1 + (-1) = 0$ और $1 + (+1) = 2$ के बीच दोलन करेगा।<br><strong>Step III:</strong> $x = 0$ पर आरंभिक बिंदु ज्ञात करें। $y = 1 + \\cos(0) = 1 + 1 = 2$।<br><strong>Step IV:</strong> $x = \\pi$ पर न्यूनतम बिंदु ज्ञात करें। $y = 1 + \\cos(\\pi) = 1 - 1 = 0$। ग्राफ़ को $x = 0$ पर अपने शीर्ष (y = 2) से शुरू होना चाहिए और कभी भी x-अक्ष से नीचे नहीं गिरना चाहिए। चित्र 1 इस विवरण से मेल खाता है।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2009,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>Which of the following graph is/are straight line for the equation $y^{2}=2x$?<br>I. Graph: y versus $x^{2}$<br>II. Graph: $y^{2}$ versus x<br>III. Graph: y versus $\\sqrt{x}$<br>IV. Graph: $\\sqrt{y}$ versus x</div>",
+      "post_title": "Which of the following graph is/are straight line...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "I, IV",
+            "image": ""
+          },
+          {
+            "text": "II, III",
+            "image": ""
+          },
+          {
+            "text": "I, III",
+            "image": ""
+          },
+          {
+            "text": "Only II",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> The equation of a straight line in coordinate geometry is $Y = mX + c$, where $m$ is the slope and $c$ is the intercept. Any non-linear equation can be visualized as a straight line on a graph if the coordinate axes are redefined (plotted as $Y$ vs $X$) to perfectly match this linear proportional format.</div><p><strong>Correct Answer: II, III</strong></p><p><strong>Step I:</strong> Recall that the equation of a straight line is of the form $Y = mX + C$.<br><strong>Step II:</strong> Analyze Graph II for the relation $y^2 = 2x$. Plotting $y^2$ on the Y-axis and $x$ on the X-axis gives $Y = 2X$. This is a linear relationship passing through the origin with slope 2, so Graph II is a straight line.<br><strong>Step III:</strong> Analyze Graph III. Taking the square root of both sides gives $y = \\sqrt{2}\\sqrt{x}$. Plotting $y$ on the Y-axis and $\\sqrt{x}$ on the X-axis gives $Y = \\sqrt{2}X$. This is also a linear relationship with slope $\\sqrt{2}$, making Graph III a straight line.<br><strong>Step IV:</strong> Conclude that graphs II and III represent straight lines.</p>",
+        "_aimcq_title_hi": "समीकरण $y^{2}=2x$ के लिए निम्नलिखित में से कौन सा...",
+        "_aimcq_question_content_hi": "<div>समीकरण $y^{2}=2x$ के लिए निम्नलिखित में से कौन सा ग्राफ एक सीधी रेखा है/हैं?<br>I. ग्राफ: y बनाम $x^{2}$<br>II. ग्राफ: $y^{2}$ बनाम x<br>III. ग्राफ: y बनाम $\\sqrt{x}$<br>IV. ग्राफ: $\\sqrt{y}$ बनाम x</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "I, IV",
+            "image": ""
+          },
+          {
+            "text": "II, III",
+            "image": ""
+          },
+          {
+            "text": "I, III",
+            "image": ""
+          },
+          {
+            "text": "केवल II",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> निर्देशांक ज्यामिति (Coordinate geometry) में एक सीधी रेखा का समीकरण $Y = mX + c$ होता है, जहाँ $m$ ढलान है और $c$ अंतःखंड (intercept) है। यदि अक्षों को इस रैखिक आनुपातिक प्रारूप से मेल खाने के लिए (Y बनाम X के रूप में) फिर से परिभाषित किया जाए, तो किसी भी गैर-रैखिक समीकरण को ग्राफ पर एक सीधी रेखा के रूप में दर्शाया जा सकता है।</div><p><strong>सही उत्तर: II, III</strong></p><p><strong>Step I:</strong> याद रखें कि एक सीधी रेखा का समीकरण $Y = mX + C$ के रूप में होता है।<br><strong>Step II:</strong> संबंध $y^2 = 2x$ के लिए ग्राफ़ II का विश्लेषण करें। Y-अक्ष पर $y^2$ और X-अक्ष पर $x$ का ग्राफ़ खींचने पर $Y = 2X$ प्राप्त होता है। यह मूल बिंदु से गुजरने वाली ढलान 2 की सीधी रेखा है, इसलिए ग्राफ़ II एक सीधी रेखा है।<br><strong>Step III:</strong> ग्राफ़ III का विश्लेषण करें। दोनों पक्षों का वर्गमूल लेने पर $y = \\sqrt{2}\\sqrt{x}$ प्राप्त होता है। Y-अक्ष पर $y$ और X-अक्ष पर $\\sqrt{x}$ का ग्राफ़ खींचने पर $Y = \\sqrt{2}X$ प्राप्त होता है। यह भी ढलान $\\sqrt{2}$ वाली एक सीधी रेखा है।<br><strong>Step IV:</strong> निष्कर्ष निकालें कि केवल II और III सीधी रेखाओं का प्रतिनिधित्व करते हैं।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2010,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>Which of the following statement is false based on graphs of y versus x as shown below?<br>[Figures: (i) Curve with positive slope decreasing, (ii) Curve with positive slope increasing, (iii) Horizontal straight line, (iv) Curve with negative slope decreasing in magnitude]</div>",
+      "post_title": "Which of the following statement is false based on graphs...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Slope at $x_{0}$ is positive in graph (i) and (ii)",
+            "image": ""
+          },
+          {
+            "text": "Slope is constant in graph (iii)",
+            "image": ""
+          },
+          {
+            "text": "Slope at $x_{0}$ is negative in graph (iv)",
+            "image": ""
+          },
+          {
+            "text": "Slope at $x_{0}$ is negative in graph (ii)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> In calculus and geometry, the slope of a curve at any coordinate point is defined geometrically by the tangent line at that point ($m = \\frac{dy}{dx}$). If the curve is rising (an increasing function), the slope is positive. If the curve is falling (a decreasing function), the slope is negative. A strictly horizontal line has a zero slope.</div><p><strong>Correct Answer: Slope at x0 is negative in graph (ii)</strong></p><p><strong>Step I:</strong> Understand that the slope of a curve is determined by drawing a tangent at a point.<br><strong>Step II:</strong> Analyze graphs (i) and (ii). As $x$ increases, $y$ increases. The tangent has a positive angle with the x-axis, meaning the slope is positive.<br><strong>Step III:</strong> Analyze graph (iii). It is a horizontal line, so the slope is constant and equal to zero.<br><strong>Step IV:</strong> Analyze graph (iv). As $x$ increases, $y$ decreases, indicating a negative slope.<br><strong>Step V:</strong> Evaluate the given statements. The statement claiming the slope in graph (ii) is negative contradicts the visual evidence of an increasing function, making it false.</p>",
+        "_aimcq_title_hi": "नीचे दिखाए गए y बनाम x के ग्राफ़ के आधार पर निम्नलिखित में से...",
+        "_aimcq_question_content_hi": "<div>नीचे दिखाए गए y बनाम x के ग्राफ़ के आधार पर निम्नलिखित में से कौन सा कथन गलत है?<br>[चित्र: (i) घटती हुई धनात्मक ढलान वाला वक्र, (ii) बढ़ती हुई धनात्मक ढलान वाला वक्र, (iii) क्षैतिज सीधी रेखा, (iv) घटती हुई ऋणात्मक ढलान वाला वक्र]</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "ग्राफ (i) और (ii) में $x_{0}$ पर ढलान धनात्मक है",
+            "image": ""
+          },
+          {
+            "text": "ग्राफ (iii) में ढलान स्थिर है",
+            "image": ""
+          },
+          {
+            "text": "ग्राफ (iv) में $x_{0}$ पर ढलान ऋणात्मक है",
+            "image": ""
+          },
+          {
+            "text": "ग्राफ (ii) में $x_{0}$ पर ढलान ऋणात्मक है",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> कैलकुलस और ज्यामिति में, किसी भी निर्देशांक बिंदु पर वक्र का ढलान (slope) ज्यामितीय रूप से उस बिंदु पर स्पर्श रेखा ($m = \\frac{dy}{dx}$) द्वारा परिभाषित किया जाता है। यदि वक्र ऊपर उठ रहा है (बढ़ता हुआ फलन), तो ढलान धनात्मक है। यदि वक्र नीचे गिर रहा है (घटता हुआ फलन), तो ढलान ऋणात्मक है। क्षैतिज रेखा का ढलान शून्य होता है।</div><p><strong>सही उत्तर: ग्राफ (ii) में x0 पर ढलान ऋणात्मक है</strong></p><p><strong>Step I:</strong> समझें कि किसी वक्र का ढलान (slope) एक बिंदु पर स्पर्शरेखा खींचकर निर्धारित किया जाता है।<br><strong>Step II:</strong> ग्राफ़ (i) और (ii) का विश्लेषण करें। जैसे-जैसे $x$ बढ़ता है, $y$ बढ़ता है। स्पर्शरेखा का x-अक्ष के साथ धनात्मक कोण है, जिसका अर्थ है ढलान धनात्मक है।<br><strong>Step III:</strong> ग्राफ़ (iii) का विश्लेषण करें। यह एक क्षैतिज रेखा है, इसलिए ढलान स्थिर और शून्य के बराबर है।<br><strong>Step IV:</strong> ग्राफ़ (iv) का विश्लेषण करें। जैसे-जैसे $x$ बढ़ता है, $y$ घटता है, जो ऋणात्मक ढलान का संकेत देता है।<br><strong>Step V:</strong> दिए गए कथनों का मूल्यांकन करें। ग्राफ (ii) में ढलान को ऋणात्मक बताने वाला कथन बढ़ते हुए फलन के दृश्य साक्ष्य का खंडन करता है, इसलिए यह गलत है।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2011,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>In the given figure, function $y=9~\\sin(3\\pi x)$ is shown. What is the numerical value of expression $A(B+C)$?<br>[Figure shows a sine wave where A is the peak amplitude, B is the x-coordinate of the first positive peak, and C is the x-coordinate of the first minimum/trough]</div>",
+      "post_title": "In the given figure, function $y=9~\\sin(3\\pi x)$ is shown...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "5",
+            "image": ""
+          },
+          {
+            "text": "3",
+            "image": ""
+          },
+          {
+            "text": "9",
+            "image": ""
+          },
+          {
+            "text": "6",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Properties of standard sine waves. For a function $y = A \\sin(\\omega x)$, the amplitude is $|A|$ and the time period is $T = \\frac{2\\pi}{\\omega}$. A complete wave cycle spans exactly one time period $T$. The first positive peak occurs exactly at one-quarter of the cycle ($T/4$), and the first negative peak (trough) occurs at three-quarters of the cycle ($3T/4$).</div><p><strong>Correct Answer: 6</strong></p><p><strong>Step I:</strong> Identify the amplitude $A$ for the function $y = 9 \\sin(3\\pi x)$, which is 9.<br><strong>Step II:</strong> Calculate the time period $T = \\frac{2\\pi}{\\omega} = \\frac{2\\pi}{3\\pi} = \\frac{2}{3}$.<br><strong>Step III:</strong> Find the position of the first maximum (peak) $B$. It occurs at $x = \\frac{T}{4} = \\frac{1}{4} \\times \\frac{2}{3} = \\frac{1}{6}$. Thus, $B = \\frac{1}{6}$.<br><strong>Step IV:</strong> Find the position of the first minimum (trough) $C$. It occurs at $x = \\frac{3T}{4} = \\frac{3}{4} \\times \\frac{2}{3} = \\frac{1}{2}$. Thus, $C = \\frac{1}{2}$.<br><strong>Step V:</strong> Calculate the final expression $A(B+C) = 9 \\left(\\frac{1}{6} + \\frac{1}{2}\\right) = 9 \\left(\\frac{1}{6} + \\frac{3}{6}\\right) = 9 \\left(\\frac{4}{6}\\right) = 9 \\left(\\frac{2}{3}\\right) = 6$.</p>",
+        "_aimcq_title_hi": "दी गई आकृति में, फलन $y=9~\\sin(3\\pi x)$ दिखाया गया है...",
+        "_aimcq_question_content_hi": "<div>दी गई आकृति में, फलन $y=9~\\sin(3\\pi x)$ दिखाया गया है। अभिव्यक्ति $A(B+C)$ का संख्यात्मक मान क्या है?<br>[चित्र एक साइन तरंग दिखाता है जहाँ A अधिकतम आयाम है, B पहले धनात्मक शिखर का x-निर्देशांक है, और C पहले न्यूनतम/गर्त का x-निर्देशांक है]</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "5",
+            "image": ""
+          },
+          {
+            "text": "3",
+            "image": ""
+          },
+          {
+            "text": "9",
+            "image": ""
+          },
+          {
+            "text": "6",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> मानक साइन तरंगों के गुण। फलन $y = A \\sin(\\omega x)$ के लिए, आयाम $|A|$ है और आवर्तकाल $T = \\frac{2\\pi}{\\omega}$ है। एक पूरा तरंग चक्र ठीक एक आवर्तकाल $T$ तक फैला होता है। पहला धनात्मक शिखर चक्र के ठीक एक-चौथाई ($T/4$) पर होता है, और पहला ऋणात्मक शिखर (गर्त) चक्र के तीन-चौथाई ($3T/4$) पर होता है।</div><p><strong>सही उत्तर: 6</strong></p><p><strong>Step I:</strong> फलन $y = 9 \\sin(3\\pi x)$ के लिए आयाम $A$ की पहचान करें, जो 9 है।<br><strong>Step II:</strong> आवर्तकाल $T = \\frac{2\\pi}{\\omega} = \\frac{2\\pi}{3\\pi} = \\frac{2}{3}$ की गणना करें।<br><strong>Step III:</strong> पहले अधिकतम (शिखर) $B$ की स्थिति ज्ञात करें। यह $x = \\frac{T}{4} = \\frac{1}{4} \\times \\frac{2}{3} = \\frac{1}{6}$ पर होता है। इस प्रकार, $B = \\frac{1}{6}$।<br><strong>Step IV:</strong> पहले न्यूनतम (गर्त) $C$ की स्थिति ज्ञात करें। यह $x = \\frac{3T}{4} = \\frac{3}{4} \\times \\frac{2}{3} = \\frac{1}{2}$ पर होता है। इस प्रकार, $C = \\frac{1}{2}$।<br><strong>Step V:</strong> अंतिम व्यंजक की गणना करें: $A(B+C) = 9 \\left(\\frac{1}{6} + \\frac{1}{2}\\right) = 9 \\left(\\frac{1+3}{6}\\right) = 9 \\left(\\frac{4}{6}\\right) = 9 \\left(\\frac{2}{3}\\right) = 6$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2012,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>A stone is dropped into a quiet lake and waves move in circles spreading out radially at the speed of $5~cm/s$. At the instant when the radius of the circular wave is 8 cm, how fast is the enclosed area increasing?</div>",
+      "post_title": "A stone is dropped into a quiet lake and waves move in circles...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$80~\\pi~cm^{2}/s$",
+            "image": ""
+          },
+          {
+            "text": "$90~\\pi~cm^{2}/s$",
+            "image": ""
+          },
+          {
+            "text": "$85~\\pi~cm^{2}/s$",
+            "image": ""
+          },
+          {
+            "text": "$40~\\pi~cm^{2}/s$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Rate of change as a derivative via Chain Rule. The instantaneous rate at which an area $A$ changes with respect to time $t$ is denoted by $\\frac{dA}{dt}$. Since the area of a circle depends directly on its variable radius ($A = \\pi r^2$), we differentiate this geometric formula with respect to time using the chain rule: $\\frac{dA}{dt} = \\frac{dA}{dr} \\times \\frac{dr}{dt} = 2\\pi r \\left(\\frac{dr}{dt}\\right)$.</div><p><strong>Correct Answer: $80~\\pi~cm^{2}/s$</strong></p><p><strong>Step I:</strong> Write the formula for the enclosed area $A$ of a circular wave: $A = \\pi r^2$.<br><strong>Step II:</strong> Find the rate of change of area with respect to time by differentiating both sides with respect to $t$: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$.<br><strong>Step III:</strong> Identify the given values: rate of change of radius $\\frac{dr}{dt} = 5~cm/s$, and instantaneous radius $r = 8~cm$.<br><strong>Step IV:</strong> Substitute the values into the differentiated equation: $\\frac{dA}{dt} = 2\\pi (8) (5) = 80\\pi~cm^2/s$.</p>",
+        "_aimcq_title_hi": "एक पत्थर को एक शांत झील में गिराया जाता है...",
+        "_aimcq_question_content_hi": "<div>एक पत्थर को एक शांत झील में गिराया जाता है और तरंगें वृत्ताकार रूप में $5~cm/s$ की गति से बाहर की ओर फैलती हैं। उस क्षण जब वृत्ताकार तरंग की त्रिज्या 8 सेमी होती है, तो घिरा हुआ क्षेत्रफल कितनी तेज़ी से बढ़ रहा होता है?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$80~\\pi~cm^{2}/s$",
+            "image": ""
+          },
+          {
+            "text": "$90~\\pi~cm^{2}/s$",
+            "image": ""
+          },
+          {
+            "text": "$85~\\pi~cm^{2}/s$",
+            "image": ""
+          },
+          {
+            "text": "$40~\\pi~cm^{2}/s$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> श्रृंखला नियम (Chain Rule) के माध्यम से अवकलज के रूप में परिवर्तन की दर। समय $t$ के सापेक्ष क्षेत्रफल $A$ के बदलने की तात्कालिक दर को $\\frac{dA}{dt}$ द्वारा दर्शाया जाता है। चूँकि वृत्त का क्षेत्रफल उसकी परिवर्तनशील त्रिज्या पर निर्भर करता है ($A = \\pi r^2$), इसलिए हम श्रृंखला नियम का उपयोग करके समय के सापेक्ष इस ज्यामितीय सूत्र का अवकलन करते हैं: $\\frac{dA}{dt} = \\frac{dA}{dr} \\times \\frac{dr}{dt} = 2\\pi r \\left(\\frac{dr}{dt}\\right)$।</div><p><strong>सही उत्तर: $80~\\pi~cm^{2}/s$</strong></p><p><strong>Step I:</strong> एक वृत्ताकार तरंग के घिरे हुए क्षेत्रफल $A$ का सूत्र लिखें: $A = \\pi r^2$।<br><strong>Step II:</strong> समय के सापेक्ष क्षेत्रफल के परिवर्तन की दर ज्ञात करने के लिए, दोनों पक्षों का $t$ के सापेक्ष अवकलन (differentiate) करें: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$।<br><strong>Step III:</strong> दिए गए मानों को पहचानें: त्रिज्या के परिवर्तन की दर $\\frac{dr}{dt} = 5~cm/s$, और तात्क्षणिक त्रिज्या $r = 8~cm$।<br><strong>Step IV:</strong> अवकलित समीकरण में मानों को प्रतिस्थापित करें: $\\frac{dA}{dt} = 2\\pi (8) (5) = 80\\pi~cm^2/s$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2013,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>A particle moves along the curve $12y=x^{3}.$ Which coordinate changes at faster rate at $x=10$?</div>",
+      "post_title": "A particle moves along the curve $12y=x^{3}.$ Which coordinate...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "x-coordinate",
+            "image": ""
+          },
+          {
+            "text": "y-coordinate",
+            "image": ""
+          },
+          {
+            "text": "Both x and y-coordinate",
+            "image": ""
+          },
+          {
+            "text": "Data insufficient",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Related rates in Calculus. When a particle moves along a given spatial curve $y = f(x)$, both its x and y coordinates change continuously with time. By differentiating the curve's equation identically with respect to time $t$, we can establish a direct mathematical relationship between the horizontal velocity ($dx/dt$) and the vertical velocity ($dy/dt$).</div><p><strong>Correct Answer: y-coordinate</strong></p><p><strong>Step I:</strong> Start with the given curve equation: $12y = x^3$.<br><strong>Step II:</strong> Differentiate both sides with respect to time $t$: $12 \\frac{dy}{dt} = 3x^2 \\frac{dx}{dt}$.<br><strong>Step III:</strong> Simplify the equation to find the relation between the rates of change: $\\frac{dy}{dt} = \\frac{x^2}{4} \\frac{dx}{dt}$.<br><strong>Step IV:</strong> Substitute the value $x = 10$ into the equation: $\\frac{dy}{dt} = \\frac{10^2}{4} \\frac{dx}{dt} = \\frac{100}{4} \\frac{dx}{dt} = 25 \\frac{dx}{dt}$.<br><strong>Step V:</strong> Since $25 > 1$, conclude that the y-coordinate is changing 25 times faster than the x-coordinate.</p>",
+        "_aimcq_title_hi": "एक कण वक्र $12y=x^{3}$ के अनुदिश गति करता है...",
+        "_aimcq_question_content_hi": "<div>एक कण वक्र $12y=x^{3}$ के अनुदिश गति करता है। $x=10$ पर कौन सा निर्देशांक (coordinate) तेज दर से बदलता है?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "x-निर्देशांक",
+            "image": ""
+          },
+          {
+            "text": "y-निर्देशांक",
+            "image": ""
+          },
+          {
+            "text": "x और y-निर्देशांक दोनों",
+            "image": ""
+          },
+          {
+            "text": "आंकड़े अपर्याप्त हैं",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> कैलकुलस में संबंधित दरें (Related rates)। जब कोई कण किसी दिए गए स्थानिक वक्र $y = f(x)$ के अनुदिश गति करता है, तो उसके x और y दोनों निर्देशांक समय के साथ लगातार बदलते हैं। समय $t$ के सापेक्ष वक्र के समीकरण का अवकलन करके, हम क्षैतिज वेग ($dx/dt$) और ऊर्ध्वाधर वेग ($dy/dt$) के बीच सीधा गणितीय संबंध स्थापित कर सकते हैं।</div><p><strong>सही उत्तर: y-निर्देशांक</strong></p><p><strong>Step I:</strong> दिए गए वक्र समीकरण से शुरू करें: $12y = x^3$।<br><strong>Step II:</strong> समय $t$ के सापेक्ष दोनों पक्षों का अवकलन करें: $12 \\frac{dy}{dt} = 3x^2 \\frac{dx}{dt}$।<br><strong>Step III:</strong> परिवर्तन की दरों के बीच संबंध ज्ञात करने के लिए समीकरण को सरल करें: $\\frac{dy}{dt} = \\frac{x^2}{4} \\frac{dx}{dt}$।<br><strong>Step IV:</strong> समीकरण में मान $x = 10$ प्रतिस्थापित करें: $\\frac{dy}{dt} = \\frac{10^2}{4} \\frac{dx}{dt} = \\frac{100}{4} \\frac{dx}{dt} = 25 \\frac{dx}{dt}$।<br><strong>Step V:</strong> चूंकि $25 > 1$ है, निष्कर्ष निकालें कि y-निर्देशांक x-निर्देशांक की तुलना में 25 गुना तेजी से बदल रहा है।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2014,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>Figure shows the graph of the curve $y=\\frac{1}{3}x^{3}.$ Which of the following shows the variation of slope of the curve with x coordinate?</div>",
+      "post_title": "Figure shows the graph of the curve $y=\\frac{1}{3}x^{3}.$...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "[Figure 1]",
+            "image": ""
+          },
+          {
+            "text": "[Figure 2]",
+            "image": ""
+          },
+          {
+            "text": "[Figure 3: An upward opening parabola representing dy/dx vs x]",
+            "image": ""
+          },
+          {
+            "text": "[Figure 4]",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> The first derivative of a mathematical function precisely represents the geometric slope of its curve at any given coordinate point ($m = \\frac{dy}{dx}$). To analytically find how the slope itself varies with the x-coordinate, calculate the derivative of the curve's equation. The resulting expression dictates the exact shape of the slope variation graph (e.g., $m = x^2$ represents a standard parabola opening upwards).</div><p><strong>Correct Answer: [Figure 3]</strong></p><p><strong>Step I:</strong> Identify the given equation of the curve: $y = \\frac{1}{3}x^3$.<br><strong>Step II:</strong> Determine the slope of this curve by taking its derivative with respect to $x$: $\\text{Slope } (m) = \\frac{dy}{dx} = \\frac{d}{dx} \\left(\\frac{1}{3}x^3\\right) = x^2$.<br><strong>Step III:</strong> Analyze the resulting equation $m = x^2$. This represents a parabola that opens upwards, is symmetric about the y-axis (or dy/dx axis), and has its vertex at the origin $(0,0)$.<br><strong>Step IV:</strong> Select the figure that corresponds to this upward-opening parabola.</p>",
+        "_aimcq_title_hi": "चित्र वक्र $y=\\frac{1}{3}x^{3}$ का ग्राफ दिखाता है...",
+        "_aimcq_question_content_hi": "<div>चित्र वक्र $y=\\frac{1}{3}x^{3}$ का ग्राफ दिखाता है। निम्नलिखित में से कौन x निर्देशांक के साथ वक्र के ढलान का परिवर्तन दिखाता है?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "[चित्र 1]",
+            "image": ""
+          },
+          {
+            "text": "[चित्र 2]",
+            "image": ""
+          },
+          {
+            "text": "[चित्र 3: ऊपर की ओर खुलने वाला परवलय (Parabola) जो dy/dx बनाम x को दर्शाता है]",
+            "image": ""
+          },
+          {
+            "text": "[चित्र 4]",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> किसी गणितीय फलन का प्रथम अवकलज (first derivative) किसी भी बिंदु पर उसके वक्र के ज्यामितीय ढलान को सटीक रूप से दर्शाता है ($m = \\frac{dy}{dx}$)। विश्लेषणात्मक रूप से यह जानने के लिए कि x-निर्देशांक के साथ ढलान कैसे बदलता है, वक्र के समीकरण का अवकलन निकालें। परिणामी व्यंजक ढलान भिन्नता ग्राफ का सटीक आकार तय करता है (उदाहरण के लिए, $m = x^2$ ऊपर की ओर खुलने वाले एक मानक परवलय / parabola को दर्शाता है)।</div><p><strong>सही उत्तर: [चित्र 3]</strong></p><p><strong>Step I:</strong> वक्र के दिए गए समीकरण को पहचानें: $y = \\frac{1}{3}x^3$।<br><strong>Step II:</strong> $x$ के सापेक्ष इसका अवकलज लेकर इस वक्र का ढलान निर्धारित करें: $\\text{ढलान } (m) = \\frac{dy}{dx} = \\frac{d}{dx} \\left(\\frac{1}{3}x^3\\right) = x^2$।<br><strong>Step III:</strong> परिणामी समीकरण $m = x^2$ का विश्लेषण करें। यह एक परवलय (parabola) का प्रतिनिधित्व करता है जो ऊपर की ओर खुलता है, y-अक्ष (या dy/dx अक्ष) के सममित है, और इसका शीर्ष मूल बिंदु $(0,0)$ पर है।<br><strong>Step IV:</strong> उस चित्र का चयन करें जो इस ऊपर की ओर खुलने वाले परवलय के अनुरूप हो।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2015,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>If the volume of a sphere increases at constant rate $(\\frac{dV}{dt}=4)$. If radius of the sphere is denoted by r, then surface area of the sphere increases at the rate :-</div>",
+      "post_title": "If the volume of a sphere increases at constant rate...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$\\frac{4}{r}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{8}{r}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{12}{r}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{16}{r}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Application of derivatives for tracking related rates in spherical geometry. The standard volume of a sphere is $V = \\frac{4}{3}\\pi r^3$ and its surface area is $S = 4\\pi r^2$. Both macroscopic properties evolve as the common radius changes continuously with time. By differentiating both geometric formulas with respect to time $t$, we can seamlessly link the rate of volume change ($dV/dt$) to the rate of surface area change ($dS/dt$).</div><p><strong>Correct Answer: $\\frac{8}{r}$</strong></p><p><strong>Step I:</strong> Write the formula for the volume of a sphere: $V = \\frac{4}{3}\\pi r^3$.<br><strong>Step II:</strong> Differentiate volume with respect to time $t$: $\\frac{dV}{dt} = 4\\pi r^2 \\frac{dr}{dt}$.<br><strong>Step III:</strong> Use the given rate of volume increase $\\frac{dV}{dt} = 4$ to solve for $\\frac{dr}{dt}$: $4 = 4\\pi r^2 \\frac{dr}{dt} \\implies \\frac{dr}{dt} = \\frac{1}{\\pi r^2}$.<br><strong>Step IV:</strong> Write the formula for the surface area of a sphere: $S = 4\\pi r^2$.<br><strong>Step V:</strong> Differentiate surface area with respect to $t$: $\\frac{dS}{dt} = 8\\pi r \\frac{dr}{dt}$.<br><strong>Step VI:</strong> Substitute the value of $\\frac{dr}{dt}$ to find the rate of increase of surface area: $\\frac{dS}{dt} = 8\\pi r \\left(\\frac{1}{\\pi r^2}\\right) = \\frac{8}{r}$.</p>",
+        "_aimcq_title_hi": "यदि एक गोले का आयतन स्थिर दर से बढ़ता है...",
+        "_aimcq_question_content_hi": "<div>यदि एक गोले का आयतन एक स्थिर दर $(\\frac{dV}{dt}=4)$ से बढ़ता है। यदि गोले की त्रिज्या को r द्वारा निरूपित किया जाता है, तो गोले का पृष्ठीय क्षेत्रफल किस दर से बढ़ता है :-</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$\\frac{4}{r}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{8}{r}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{12}{r}$",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{16}{r}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> गोलाकार ज्यामिति में संबंधित दरों को ट्रैक करने के लिए अवकलज का अनुप्रयोग। एक गोले का मानक आयतन $V = \\frac{4}{3}\\pi r^3$ और उसका पृष्ठीय क्षेत्रफल $S = 4\\pi r^2$ होता है। समय के साथ सामान्य त्रिज्या बदलने पर दोनों मैक्रोस्कोपिक गुण विकसित होते हैं। समय $t$ के सापेक्ष दोनों ज्यामितीय सूत्रों का अवकलन करके, हम आयतन परिवर्तन की दर ($dV/dt$) को पृष्ठीय क्षेत्रफल परिवर्तन की दर ($dS/dt$) से जोड़ सकते हैं।</div><p><strong>सही उत्तर: $\\frac{8}{r}$</strong></p><p><strong>Step I:</strong> एक गोले के आयतन का सूत्र लिखें: $V = \\frac{4}{3}\\pi r^3$।<br><strong>Step II:</strong> समय $t$ के सापेक्ष आयतन का अवकलन करें: $\\frac{dV}{dt} = 4\\pi r^2 \\frac{dr}{dt}$।<br><strong>Step III:</strong> $\\frac{dr}{dt}$ का मान निकालने के लिए आयतन वृद्धि की दी गई दर $\\frac{dV}{dt} = 4$ का उपयोग करें: $4 = 4\\pi r^2 \\frac{dr}{dt} \\implies \\frac{dr}{dt} = \\frac{1}{\\pi r^2}$।<br><strong>Step IV:</strong> गोले के पृष्ठीय क्षेत्रफल का सूत्र लिखें: $S = 4\\pi r^2$।<br><strong>Step V:</strong> समय $t$ के सापेक्ष पृष्ठीय क्षेत्रफल का अवकलन करें: $\\frac{dS}{dt} = 8\\pi r \\frac{dr}{dt}$।<br><strong>Step VI:</strong> पृष्ठीय क्षेत्रफल में वृद्धि की दर ज्ञात करने के लिए $\\frac{dr}{dt}$ का मान प्रतिस्थापित करें: $\\frac{dS}{dt} = 8\\pi r \\left(\\frac{1}{\\pi r^2}\\right) = \\frac{8}{r}$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2016,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>The position of a particle moving along x-axis varies with time t according as $x=\\sqrt{3}\\sin~\\omega t-\\cos~\\omega t$ where $\\omega$ is a constant. Find the region in which the particle is confined.</div>",
+      "post_title": "The position of a particle moving along x-axis varies...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$-2\\le x\\le 2$",
+            "image": ""
+          },
+          {
+            "text": "$-3\\le x\\le 3$",
+            "image": ""
+          },
+          {
+            "text": "$-\\sqrt{2}\\le x\\le \\sqrt{2}$",
+            "image": ""
+          },
+          {
+            "text": "$-1\\le x\\le 1$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Superposition of Simple Harmonic Motions (SHM). A dual trigonometric expression in the exact form of $A \\sin(\\omega t) \\pm B \\cos(\\omega t)$ can be mathematically combined into a single, unified sine wave $R \\sin(\\omega t \\pm \\phi)$. The maximum amplitude (resultant bounding amplitude) of this combined wave is directly given by the Pythagorean identity formula $R = \\sqrt{A^2 + B^2}$.</div><p><strong>Correct Answer: $-2 \\le x \\le 2$</strong></p><p><strong>Step I:</strong> Note the given position equation: $x = \\sqrt{3}\\sin(\\omega t) - \\cos(\\omega t)$.<br><strong>Step II:</strong> Recognize this is in the standard form $A\\sin(\\omega t) + B\\cos(\\omega t)$.<br><strong>Step III:</strong> Recall that the maximum and minimum values of such an expression are $\\pm\\sqrt{A^2 + B^2}$. Here, $A = \\sqrt{3}$ and $B = -1$.<br><strong>Step IV:</strong> Calculate the maximum amplitude: $\\sqrt{(\\sqrt{3})^2 + (-1)^2} = \\sqrt{3 + 1} = \\sqrt{4} = 2$.<br><strong>Step V:</strong> Conclude that the particle oscillates between $+2$ and $-2$, making the confined region $-2 \\le x \\le 2$.</p>",
+        "_aimcq_title_hi": "x-अक्ष के अनुदिश गति करने वाले एक कण की स्थिति...",
+        "_aimcq_question_content_hi": "<div>x-अक्ष के अनुदिश गति करने वाले एक कण की स्थिति समय t के साथ $x=\\sqrt{3}\\sin~\\omega t-\\cos~\\omega t$ के अनुसार बदलती है, जहाँ $\\omega$ एक स्थिरांक है। वह क्षेत्र ज्ञात कीजिए जिसमें कण सीमित है।</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$-2\\le x\\le 2$",
+            "image": ""
+          },
+          {
+            "text": "$-3\\le x\\le 3$",
+            "image": ""
+          },
+          {
+            "text": "$-\\sqrt{2}\\le x\\le \\sqrt{2}$",
+            "image": ""
+          },
+          {
+            "text": "$-1\\le x\\le 1$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> सरल आवर्त गतियों का अध्यारोपण (Superposition of SHM)। $A \\sin(\\omega t) \\pm B \\cos(\\omega t)$ के रूप में एक दोहरे त्रिकोणमितीय व्यंजक को गणितीय रूप से एक एकल, एकीकृत साइन तरंग $R \\sin(\\omega t \\pm \\phi)$ में जोड़ा जा सकता है। इस संयुक्त तरंग का अधिकतम आयाम (परिणामी बाध्यकारी आयाम) सीधे पाइथागोरियन पहचान सूत्र $R = \\sqrt{A^2 + B^2}$ द्वारा दिया जाता है।</div><p><strong>सही उत्तर: $-2 \\le x \\le 2$</strong></p><p><strong>Step I:</strong> दी गई स्थिति के समीकरण पर ध्यान दें: $x = \\sqrt{3}\\sin(\\omega t) - \\cos(\\omega t)$।<br><strong>Step II:</strong> पहचानें कि यह मानक रूप $A\\sin(\\omega t) + B\\cos(\\omega t)$ में है।<br><strong>Step III:</strong> याद रखें कि इस तरह के व्यंजक का अधिकतम और न्यूनतम मान $\\pm\\sqrt{A^2 + B^2}$ होता है। यहाँ, $A = \\sqrt{3}$ और $B = -1$ है।<br><strong>Step IV:</strong> अधिकतम आयाम की गणना करें: $\\sqrt{(\\sqrt{3})^2 + (-1)^2} = \\sqrt{3 + 1} = \\sqrt{4} = 2$।<br><strong>Step V:</strong> निष्कर्ष निकालें कि कण $+2$ और $-2$ के बीच दोलन करता है, जिससे सीमित क्षेत्र $-2 \\le x \\le 2$ हो जाता है।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2017,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>For a spherical balloon, the rate of change of radius with respect to time is $2/\\pi~cm/s$. Find the rate of change of volume, when radius is $\\frac{1}{2}cm$.</div>",
+      "post_title": "For a spherical balloon, the rate of change of radius...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$1~cm^{3}/s$",
+            "image": ""
+          },
+          {
+            "text": "$2~cm^{3}/s$",
+            "image": ""
+          },
+          {
+            "text": "$3~cm^{3}/s$",
+            "image": ""
+          },
+          {
+            "text": "$4~cm^{3}/s$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Calculus derivatives for rigorous rate measurements. The enclosed volume of a sphere is fundamentally linked to its spatial radius by the core formula $V = \\frac{4}{3}\\pi r^3$. To find how fast the internal volume is actively changing at a specific instant, accurately differentiate the static volume formula with respect to time ($dV/dt = 4\\pi r^2 \\cdot dr/dt$) and selectively plug in the instantaneous snapshot values of radius and radius change rate.</div><p><strong>Correct Answer: $2~cm^{3}/s$</strong></p><p><strong>Step I:</strong> Identify the given values: rate of change of radius $\\frac{dr}{dt} = \\frac{2}{\\pi}~cm/s$ and radius $r = \\frac{1}{2}~cm$.<br><strong>Step II:</strong> Write the formula for the volume of a sphere: $V = \\frac{4}{3}\\pi r^3$.<br><strong>Step III:</strong> Differentiate the volume with respect to time to find the rate of change: $\\frac{dV}{dt} = 4\\pi r^2 \\frac{dr}{dt}$.<br><strong>Step IV:</strong> Substitute the given values into the differentiated equation: $\\frac{dV}{dt} = 4\\pi \\left(\\frac{1}{2}\\right)^2 \\left(\\frac{2}{\\pi}\\right) = 4\\pi \\left(\\frac{1}{4}\\right) \\left(\\frac{2}{\\pi}\\right)$.<br><strong>Step V:</strong> Simplify the expression to get the final answer: $\\frac{dV}{dt} = \\pi \\left(\\frac{2}{\\pi}\\right) = 2~cm^3/s$.</p>",
+        "_aimcq_title_hi": "एक गोलाकार गुब्बारे के लिए, त्रिज्या के परिवर्तन की दर...",
+        "_aimcq_question_content_hi": "<div>एक गोलाकार गुब्बारे के लिए, समय के सापेक्ष त्रिज्या के परिवर्तन की दर $2/\\pi~cm/s$ है। जब त्रिज्या $\\frac{1}{2}cm$ हो, तो आयतन के परिवर्तन की दर ज्ञात कीजिए।</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$1~cm^{3}/s$",
+            "image": ""
+          },
+          {
+            "text": "$2~cm^{3}/s$",
+            "image": ""
+          },
+          {
+            "text": "$3~cm^{3}/s$",
+            "image": ""
+          },
+          {
+            "text": "$4~cm^{3}/s$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> कठोर दर माप के लिए कैलकुलस अवकलज। गोले का आंतरिक आयतन मूल सूत्र $V = \\frac{4}{3}\\pi r^3$ द्वारा इसकी स्थानिक त्रिज्या से मौलिक रूप से जुड़ा हुआ है। यह जानने के लिए कि एक विशिष्ट क्षण में आंतरिक आयतन कितनी तेजी से सक्रिय रूप से बदल रहा है, समय के सापेक्ष स्थिर आयतन सूत्र का सटीक अवकलन करें ($dV/dt = 4\\pi r^2 \\cdot dr/dt$) और त्रिज्या तथा त्रिज्या परिवर्तन दर के तात्कालिक स्नैपशॉट मानों को प्रतिस्थापित करें।</div><p><strong>सही उत्तर: $2~cm^{3}/s$</strong></p><p><strong>Step I:</strong> दिए गए मानों को पहचानें: त्रिज्या के परिवर्तन की दर $\\frac{dr}{dt} = \\frac{2}{\\pi}~cm/s$ और त्रिज्या $r = \\frac{1}{2}~cm$।<br><strong>Step II:</strong> एक गोले के आयतन का सूत्र लिखें: $V = \\frac{4}{3}\\pi r^3$।<br><strong>Step III:</strong> परिवर्तन की दर ज्ञात करने के लिए समय के सापेक्ष आयतन का अवकलन करें: $\\frac{dV}{dt} = 4\\pi r^2 \\frac{dr}{dt}$।<br><strong>Step IV:</strong> अवकलित समीकरण में दिए गए मानों को प्रतिस्थापित करें: $\\frac{dV}{dt} = 4\\pi \\left(\\frac{1}{2}\\right)^2 \\left(\\frac{2}{\\pi}\\right) = 4\\pi \\left(\\frac{1}{4}\\right) \\left(\\frac{2}{\\pi}\\right)$।<br><strong>Step V:</strong> अंतिम उत्तर प्राप्त करने के लिए व्यंजक को सरल करें: $\\frac{dV}{dt} = \\pi \\left(\\frac{2}{\\pi}\\right) = 2~cm^3/s$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2018,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>Given that $y=\\sin~3x+\\frac{4}{3}\\cos~3x$. What is the maximum rate of change in y with respect to x?</div>",
+      "post_title": "Given that $y=\\sin~3x+\\frac{4}{3}\\cos~3x$. What is the maximum...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "7",
+            "image": ""
+          },
+          {
+            "text": "4",
+            "image": ""
+          },
+          {
+            "text": "5",
+            "image": ""
+          },
+          {
+            "text": "6",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Finding true absolute maxima of complex trigonometric functions. The instantaneous rate of change of a variable $y$ with respect to a spatial parameter $x$ is formally defined as the first derivative $\\frac{dy}{dx}$. If the resulting derivative systematically yields a composite expression of the precise form $A \\cos(\\theta) \\pm B \\sin(\\theta)$, the maximum possible value (mathematical amplitude) of this resulting function is always unconditionally $\\sqrt{A^2 + B^2}$.</div><p><strong>Correct Answer: 5</strong></p><p><strong>Step I:</strong> Understand that the rate of change in $y$ with respect to $x$ is given by its derivative $\\frac{dy}{dx}$.<br><strong>Step II:</strong> Differentiate the given function $y = \\sin(3x) + \\frac{4}{3}\\cos(3x)$: $\\frac{dy}{dx} = 3\\cos(3x) + \\frac{4}{3}(-3\\sin(3x)) = 3\\cos(3x) - 4\\sin(3x)$.<br><strong>Step III:</strong> Recognize that the resulting expression is in the form $A\\cos(\\theta) + B\\sin(\\theta)$.<br><strong>Step IV:</strong> Recall that the maximum value of this form is $\\sqrt{A^2 + B^2}$.<br><strong>Step V:</strong> Calculate the maximum value of $\\frac{dy}{dx} = \\sqrt{3^2 + (-4)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.</p>",
+        "_aimcq_title_hi": "दिया गया है कि $y=\\sin~3x+\\frac{4}{3}\\cos~3x$...",
+        "_aimcq_question_content_hi": "<div>दिया गया है कि $y=\\sin~3x+\\frac{4}{3}\\cos~3x$। x के सापेक्ष y में परिवर्तन की अधिकतम दर क्या है?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "7",
+            "image": ""
+          },
+          {
+            "text": "4",
+            "image": ""
+          },
+          {
+            "text": "5",
+            "image": ""
+          },
+          {
+            "text": "6",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> जटिल त्रिकोणमितीय फलनों के वास्तविक निरपेक्ष उच्चिष्ठ (absolute maxima) ज्ञात करना। स्थानिक पैरामीटर $x$ के सापेक्ष चर $y$ के परिवर्तन की तात्कालिक दर को औपचारिक रूप से प्रथम अवकलज $\\frac{dy}{dx}$ के रूप में परिभाषित किया जाता है। यदि परिणामी अवकलज व्यवस्थित रूप से सटीक $A \\cos(\\theta) \\pm B \\sin(\\theta)$ रूप का एक मिश्रित व्यंजक उत्पन्न करता है, तो इस परिणामी फलन का अधिकतम संभव मान (गणितीय आयाम) हमेशा बिना शर्त $\\sqrt{A^2 + B^2}$ होता है।</div><p><strong>सही उत्तर: 5</strong></p><p><strong>Step I:</strong> समझें कि $x$ के सापेक्ष $y$ में परिवर्तन की दर इसके अवकलज (derivative) $\\frac{dy}{dx}$ द्वारा दी जाती है।<br><strong>Step II:</strong> दिए गए फलन $y = \\sin(3x) + \\frac{4}{3}\\cos(3x)$ का अवकलन करें: $\\frac{dy}{dx} = 3\\cos(3x) + \\frac{4}{3}(-3\\sin(3x)) = 3\\cos(3x) - 4\\sin(3x)$।<br><strong>Step III:</strong> पहचानें कि परिणामी व्यंजक $A\\cos(\\theta) + B\\sin(\\theta)$ के रूप में है।<br><strong>Step IV:</strong> याद रखें कि इस रूप का अधिकतम मान $\\sqrt{A^2 + B^2}$ होता है।<br><strong>Step V:</strong> $\\frac{dy}{dx}$ के अधिकतम मान की गणना करें: $\\sqrt{3^2 + (-4)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2019,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>Given that $y=\\frac{10}{\\sin~x+\\sqrt{3}\\cos~x}$. Minimum value of y is</div>",
+      "post_title": "Given that $y=\\frac{10}{\\sin~x+\\sqrt{3}\\cos~x}$. Minimum value...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "zero",
+            "image": ""
+          },
+          {
+            "text": "2",
+            "image": ""
+          },
+          {
+            "text": "5",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{10}{1+\\sqrt{3}}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Maxima and Minima analysis of rational fractions. For a mathematical function robustly expressed as a fraction with a strict constant positive numerator ($y = \\frac{k}{f(x)}$), the absolute minimum theoretical value of the entire function structurally occurs when its dependent denominator ($f(x)$) successfully reaches its maximum possible valid value. The maximum bounding value of the harmonic expression $A \\sin x + B \\cos x$ is universally derived as $\\sqrt{A^2 + B^2}$.</div><p><strong>Correct Answer: 5</strong></p><p><strong>Step I:</strong> Observe the function $y = \\frac{10}{\\sin x + \\sqrt{3}\\cos x}$. To find the minimum value of $y$, we need to find the maximum possible value of its denominator $\\sin x + \\sqrt{3}\\cos x$.<br><strong>Step II:</strong> Use the rule that the expression $A\\sin x + B\\cos x$ has a maximum value of $\\sqrt{A^2 + B^2}$. Here, $A = 1$ and $B = \\sqrt{3}$.<br><strong>Step III:</strong> Calculate the maximum value of the denominator: $\\sqrt{1^2 + (\\sqrt{3})^2} = \\sqrt{1 + 3} = \\sqrt{4} = 2$.<br><strong>Step IV:</strong> Substitute this maximum denominator back into the original function to find the minimum value of $y$: $\\frac{10}{2} = 5$.</p>",
+        "_aimcq_title_hi": "दिया गया है कि $y=\\frac{10}{\\sin~x+\\sqrt{3}\\cos~x}$...",
+        "_aimcq_question_content_hi": "<div>दिया गया है कि $y=\\frac{10}{\\sin~x+\\sqrt{3}\\cos~x}$। y का न्यूनतम मान है</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "शून्य",
+            "image": ""
+          },
+          {
+            "text": "2",
+            "image": ""
+          },
+          {
+            "text": "5",
+            "image": ""
+          },
+          {
+            "text": "$\\frac{10}{1+\\sqrt{3}}$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> तर्कसंगत भिन्नों (rational fractions) के उच्चिष्ठ और निम्निष्ठ का विश्लेषण। एक सख्त स्थिर धनात्मक अंश ($y = \\frac{k}{f(x)}$) वाले भिन्न के रूप में मजबूती से व्यक्त किए गए गणितीय फलन के लिए, संपूर्ण फलन का पूर्ण न्यूनतम सैद्धांतिक मान संरचनात्मक रूप से तब होता है जब इसका आश्रित हर ($f(x)$) सफलतापूर्वक अपने अधिकतम संभव वैध मान तक पहुँच जाता है। हार्मोनिक व्यंजक $A \\sin x + B \\cos x$ का अधिकतम सीमा मान सार्वभौमिक रूप से $\\sqrt{A^2 + B^2}$ प्राप्त होता है।</div><p><strong>सही उत्तर: 5</strong></p><p><strong>Step I:</strong> फलन $y = \\frac{10}{\\sin x + \\sqrt{3}\\cos x}$ का निरीक्षण करें। $y$ का न्यूनतम मान ज्ञात करने के लिए, हमें इसके हर (denominator) $\\sin x + \\sqrt{3}\\cos x$ का अधिकतम संभव मान ज्ञात करना होगा।<br><strong>Step II:</strong> इस नियम का उपयोग करें कि व्यंजक $A\\sin x + B\\cos x$ का अधिकतम मान $\\sqrt{A^2 + B^2}$ होता है। यहाँ, $A = 1$ और $B = \\sqrt{3}$ है।<br><strong>Step III:</strong> हर के अधिकतम मान की गणना करें: $\\sqrt{1^2 + (\\sqrt{3})^2} = \\sqrt{1 + 3} = \\sqrt{4} = 2$।<br><strong>Step IV:</strong> $y$ का न्यूनतम मान ज्ञात करने के लिए इस अधिकतम हर को वापस मूल फलन में प्रतिस्थापित करें: $\\frac{10}{2} = 5$।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 2020,
+      "post_author": 1,
+      "post_date": "2026-05-23 10:00:00",
+      "post_content": "<div>Find the rate of change of radius of a sphere when its radius is 4 cm and when its volume is changing at the rate of $\\frac{4\\pi}{625}m^{3}/sec.$</div>",
+      "post_title": "Find the rate of change of radius of a sphere...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "$1~m/s$",
+            "image": ""
+          },
+          {
+            "text": "$2~m/s$",
+            "image": ""
+          },
+          {
+            "text": "$\\pi~m/s$",
+            "image": ""
+          },
+          {
+            "text": "$3~m/s$",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>Root Concept / Basics:</strong> Rate of change synchronization and Unit consistency rule. The physical rate of change of a sphere's entire volume is formally derived by rigorously differentiating its geometric volume formula ($V = \\frac{4}{3}\\pi r^3$) with respect to time, definitively giving $\\frac{dV}{dt} = 4\\pi r^2 \\left(\\frac{dr}{dt}\\right)$. Before mathematically applying this formula, it is absolutely crucial to guarantee all given physical quantities are expressed cleanly in a single unified system of units (e.g., properly converting cm to meters).</div><p><strong>Correct Answer: 1 m/s</strong></p><p><strong>Step I:</strong> Unify the units. The rate of volume change is given in $m^3/s$, so convert the radius to meters: $r = 4~cm = 0.04~m$.<br><strong>Step II:</strong> Note the given rate of change of volume: $\\frac{dV}{dt} = \\frac{4\\pi}{625}~m^3/s$.<br><strong>Step III:</strong> Write the volume of a sphere formula $V = \\frac{4}{3}\\pi r^3$ and differentiate it with respect to $t$: $\\frac{dV}{dt} = 4\\pi r^2 \\frac{dr}{dt}$.<br><strong>Step IV:</strong> Substitute the known values into the equation: $\\frac{4\\pi}{625} = 4\\pi (0.04)^2 \\frac{dr}{dt}$.<br><strong>Step V:</strong> Simplify to solve for $\\frac{dr}{dt}$: $\\frac{1}{625} = (0.0016) \\frac{dr}{dt} \\implies \\frac{1}{625} = \\frac{16}{10000} \\frac{dr}{dt} \\implies \\frac{1}{625} = \\frac{1}{625} \\frac{dr}{dt}$.<br><strong>Step VI:</strong> Conclude that $\\frac{dr}{dt} = 1~m/s$.</p>",
+        "_aimcq_title_hi": "एक गोले की त्रिज्या के परिवर्तन की दर ज्ञात कीजिए...",
+        "_aimcq_question_content_hi": "<div>एक गोले की त्रिज्या के परिवर्तन की दर ज्ञात कीजिए जब इसकी त्रिज्या 4 सेमी है और जब इसका आयतन $\\frac{4\\pi}{625}m^{3}/sec$ की दर से बदल रहा है।</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "$1~m/s$",
+            "image": ""
+          },
+          {
+            "text": "$2~m/s$",
+            "image": ""
+          },
+          {
+            "text": "$\\pi~m/s$",
+            "image": ""
+          },
+          {
+            "text": "$3~m/s$",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<div style='border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; border-radius: 5px; background-color: #f0f8ff;'><strong>मूल अवधारणा (Root Concept):</strong> परिवर्तन सिंक्रनाइज़ेशन की दर और इकाई स्थिरता नियम। किसी गोले के संपूर्ण आयतन के परिवर्तन की भौतिक दर उसके ज्यामितीय आयतन सूत्र ($V = \\frac{4}{3}\\pi r^3$) का समय के सापेक्ष कठोरता से अवकलन करके औपचारिक रूप से प्राप्त की जाती है, जिससे निश्चित रूप से $\\frac{dV}{dt} = 4\\pi r^2 \\left(\\frac{dr}{dt}\\right)$ प्राप्त होता है। इस सूत्र को गणितीय रूप से लागू करने से पहले, यह गारंटी देना नितांत आवश्यक है कि दी गई सभी भौतिक मात्राएँ इकाइयों की एक एकीकृत प्रणाली (जैसे, सेमी को मीटर में ठीक से बदलना) में स्पष्ट रूप से व्यक्त की गई हैं।</div><p><strong>सही उत्तर: 1 m/s</strong></p><p><strong>Step I:</strong> इकाइयों को समान करें। आयतन परिवर्तन की दर $m^3/s$ में दी गई है, इसलिए त्रिज्या को मीटर में बदलें: $r = 4~cm = 0.04~m$।<br><strong>Step II:</strong> आयतन के परिवर्तन की दी गई दर लिखें: $\\frac{dV}{dt} = \\frac{4\\pi}{625}~m^3/s$।<br><strong>Step III:</strong> गोले के आयतन का सूत्र $V = \\frac{4}{3}\\pi r^3$ लिखें और $t$ के सापेक्ष इसका अवकलन करें: $\\frac{dV}{dt} = 4\\pi r^2 \\frac{dr}{dt}$।<br><strong>Step IV:</strong> ज्ञात मानों को समीकरण में प्रतिस्थापित करें: $\\frac{4\\pi}{625} = 4\\pi (0.04)^2 \\frac{dr}{dt}$।<br><strong>Step V:</strong> $\\frac{dr}{dt}$ के लिए हल करने के लिए सरल करें: $\\frac{1}{625} = (0.0016) \\frac{dr}{dt} \\implies \\frac{1}{625} = \\frac{16}{10000} \\frac{dr}{dt} \\implies \\frac{1}{625} = \\frac{1}{625} \\frac{dr}{dt}$।<br><strong>Step VI:</strong> निष्कर्ष निकालें कि $\\frac{dr}{dt} = 1~m/s$ है।</p>"
+      },
+      "taxonomies": {
+        "topic": [
+          "physics"
+        ]
+      },
+      "embedded_media": []
+    }
+  ]
+}
